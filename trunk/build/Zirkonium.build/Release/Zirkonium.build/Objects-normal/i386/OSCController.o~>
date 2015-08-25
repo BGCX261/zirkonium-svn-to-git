@@ -1,0 +1,8 @@
+/Users/dwagner/zkm/zirkonium_writeable/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Controllers/OSCController.m: In function '-[OSCController postOSC]':
+/Users/dwagner/zkm/zirkonium_writeable/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Controllers/OSCController.m:162: warning: no '-timeWatch' method found
+/Users/dwagner/zkm/zirkonium_writeable/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Controllers/OSCController.m:162: warning: (Messages without a matching method signature
+/Users/dwagner/zkm/zirkonium_writeable/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Controllers/OSCController.m:162: warning: will be assumed to return 'id' and accept
+/Users/dwagner/zkm/zirkonium_writeable/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Controllers/OSCController.m:162: warning: '...' as arguments.)
+/Users/dwagner/zkm/zirkonium_writeable/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Controllers/OSCController.m:162: warning: multiple methods named '-currentTime' found
+/Developer-Old/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSound.h:73: warning: using '-(NSTimeInterval)currentTime'
+/Developer-Old/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTMovie.h:295: warning: also found '-(QTTime)currentTime'

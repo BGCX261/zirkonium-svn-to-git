@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>StudioSetup 2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>StudioSetup</key>
+		<dict>
+			<key>ChannelMap</key>
+			<data>
+			LZWMK+nbTwt9msROAr0mNWlLAuubPg/JvxjxWreoxbI=
+			</data>
+			<key>Room</key>
+			<data>
+			Ypps+w8Sq3nKZgB8HzXW4jdVmIKnYhKReghyN6i8psA=
+			</data>
+			<key>SimpleMap</key>
+			<data>
+			EB41DgL+FsKnEiRSPceI+od46cfDXZpfvWRA4jHQJP0=
+			</data>
+			<key>Speaker</key>
+			<data>
+			wFo3tpUD5c3hfyVFjROgJQgtjvBuM0p4hBdbgoLczCY=
+			</data>
+			<key>SpeakerRing</key>
+			<data>
+			J9+tYX+H4Li+F0VNIltKbRcaJ5g6Fk7iQQNCqfOBEuM=
+			</data>
+			<key>SpeakerSetup</key>
+			<data>
+			5dBYWlG6+TbCDPRhfXnW1YsS9Yic/tCyulE+Yt6sNEM=
+			</data>
+		</dict>
+		<key>StudioSetup 2</key>
+		<dict>
+			<key>ChannelMap</key>
+			<data>
+			LZWMK+nbTwt9msROAr0mNWlLAuubPg/JvxjxWreoxbI=
+			</data>
+			<key>OSCConfiguration</key>
+			<data>
+			DVWLgHnh7IERKf7YlIuRLlW4nUeMRJJKgGL4rtaL1eU=
+			</data>
+			<key>OSCReceiver</key>
+			<data>
+			yOSH/TrL27fAKXT/F69fKMhheapI/ajanlsWnbmKtms=
+			</data>
+			<key>OSCSender</key>
+			<data>
+			4suld6kDVa2IUbArkaEgfORtAhmP/o1K2OxRsVdBgtI=
+			</data>
+			<key>Room</key>
+			<data>
+			Ypps+w8Sq3nKZgB8HzXW4jdVmIKnYhKReghyN6i8psA=
+			</data>
+			<key>SimpleMap</key>
+			<data>
+			EB41DgL+FsKnEiRSPceI+od46cfDXZpfvWRA4jHQJP0=
+			</data>
+			<key>Speaker</key>
+			<data>
+			wFo3tpUD5c3hfyVFjROgJQgtjvBuM0p4hBdbgoLczCY=
+			</data>
+			<key>SpeakerRing</key>
+			<data>
+			J9+tYX+H4Li+F0VNIltKbRcaJ5g6Fk7iQQNCqfOBEuM=
+			</data>
+			<key>SpeakerSetup</key>
+			<data>
+			5dBYWlG6+TbCDPRhfXnW1YsS9Yic/tCyulE+Yt6sNEM=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

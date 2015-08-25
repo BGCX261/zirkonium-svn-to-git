@@ -1,0 +1,328 @@
+TMuseumDomDB
+v7
+r0
+t332413057.250005
+cCheck dependencies
+cProcessInfoPlistFile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Info.plist Info.plist
+cCpResource build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/MainMenu.xib
+cCompileXIB /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/ZKMMDDocument.xib
+cProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/MuseumDomDB_Prefix-eeejkohkdmzdxegkffwjutckxygb/MuseumDomDB_Prefix.pch.gch MuseumDomDB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument.momd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDDocument.xcdatamodeld
+cMappingModelCompile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument10-11.cdm /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/ZKMMDDocument10-11.xcmappingmodel
+cCompileC build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDDocument-528B0CF58FE91DC2.o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/ZKMMDDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/main.o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDPiece.o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDPiece.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB normal i386
+cGenerateDSYMFile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app.dSYM /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB
+cTouch /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC40376000000000000043A
+t1287914358
+s1082
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/Credits.rtf
+c000000004A572BA100000000000001B4
+t1247226785
+s436
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/InfoPlist.strings
+c000000004A572BA100000000000000CA
+t1247226785
+s202
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/MainMenu.xib
+c000000004A572BA1000000000001F091
+t1247226785
+s127121
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/ZKMMDDocument.xib
+c000000004AC3788700000000000160EF
+t1254324359
+s90351
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/MuseumDomDB_Prefix.pch
+c000000004A572BA100000000000000E1
+t1247226785
+s225
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDDocument.xcdatamodeld
+c000000004AC375E900000000000000AA
+t1254323689
+s170
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDPiece.h
+c000000004AC3C955000000000000030B
+t1254345045
+s779
+i<CoreData/CoreData.h>
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDPiece.m
+c000000004AC3C96300000000000009F7
+t1254345059
+s2551
+i"ZKMMDPiece.h"
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/ZKMMDDocument.h
+c000000004A696FC70000000000000175
+t1248423879
+s373
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/ZKMMDDocument.m
+c000000004AC37DCC000000000000234F
+t1254325708
+s9039
+i"ZKMMDDocument.h"
+i"ZKMMDPiece.h"
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/ZKMMDDocument10-11.xcmappingmodel
+c000000004AC379670000000000000066
+t1254324583
+s102
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/MuseumDomDB.LinkFileList
+c000000004E2000FC0000000000000203
+t1310720252
+s515
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDDocument-528B0CF58FE91DC2.o
+t1310720256
+s45416
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDPiece.o
+t1310720256
+s15616
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/main.o
+t1310720256
+s4948
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app
+t1310720257
+s102
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app.dSYM
+t1310720257
+s102
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Info.plist
+t1310720252
+s1853
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB
+t1310720257
+s26556
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/PkgInfo
+t1310720252
+s8
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/Credits.rtf
+t1310720252
+s436
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1310720252
+s202
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/MainMenu.nib
+t1310720252
+s27741
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/ZKMMDDocument.nib
+t1310720252
+s25471
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument.momd
+t1310720256
+s170
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument10-11.cdm
+t1310720256
+s3933
+
+N/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/main.m
+c000000004A572BA10000000000000105
+t1247226785
+s261
+i<Cocoa/Cocoa.h>
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/MuseumDomDB_Prefix-eeejkohkdmzdxegkffwjutckxygb/MuseumDomDB_Prefix.pch.gch
+t1310720255
+s55600944
+
+NInfo.plist
+c000000004A60A9090000000000000622
+t1247848713
+s1570
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332413052#332413052#0(0"0(0#1#0"8618410304#0"0#
+
+CCompileC build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDDocument-528B0CF58FE91DC2.o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/ZKMMDDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332413056.156674
+e332413056.490075
+r1
+xCompileC
+xbuild/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDDocument-528B0CF58FE91DC2.o
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/ZKMMDDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/ZKMMDDocument.m332413056#332413056#0(0"0(0#0#106"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/ZKMMDDocument.m8603209568#1562"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/MuseumDomDB.hmap -F/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/include -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/DerivedSources/i386 -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/DerivedSources -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/MuseumDomDB_Prefix-eeejkohkdmzdxegkffwjutckxygb/MuseumDomDB_Prefix.pch -c /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/ZKMMDDocument.m -o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDDocument-528B0CF58FE91DC2.o0#
+
+CCompileC build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDPiece.o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDPiece.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332413056.158156
+e332413056.357260
+r1
+xCompileC
+xbuild/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDPiece.o
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDPiece.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDPiece.m332413056#332413056#0(0"0(0#0#110"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDPiece.m8613201632#1546"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/MuseumDomDB.hmap -F/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/include -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/DerivedSources/i386 -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/DerivedSources -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/MuseumDomDB_Prefix-eeejkohkdmzdxegkffwjutckxygb/MuseumDomDB_Prefix.pch -c /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDPiece.m -o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/ZKMMDPiece.o0#
+
+CCompileC build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/main.o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332413056.157409
+e332413056.323444
+r1
+xCompileC
+xbuild/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/main.o
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/main.m332413056#332413056#0(0"0(0#0#90"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/main.m8617667840#1520"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/MuseumDomDB.hmap -F/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/include -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/DerivedSources/i386 -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/DerivedSources -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/MuseumDomDB_Prefix-eeejkohkdmzdxegkffwjutckxygb/MuseumDomDB_Prefix.pch -c /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/main.m -o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/MainMenu.xib
+s332413052.624880
+e332413052.818996
+r1
+xCompileXIB
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib332413052#332413052#0(0"0(0#0#110"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/MainMenu.xib8616846144#513"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    /Developer-Old/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/MainMenu.xib --sdk /Developer-Old/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/ZKMMDDocument.xib
+s332413052.625394
+e332413052.898887
+r1
+xCompileXIB
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/ZKMMDDocument.xib
+lSLF07#2@42"CompileXIB English.lproj/ZKMMDDocument.xib332413052#332413052#0(0"0(0#0#115"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/ZKMMDDocument.xib8615966240#523"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    /Developer-Old/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/ZKMMDDocument.nib /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/ZKMMDDocument.xib --sdk /Developer-Old/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s332413052.624343
+e332413052.648184
+r1
+xCopyStringsFile
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings332413052#332413052#0(0"0(0#0#115"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/InfoPlist.strings8617538720#466"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    setenv ICONV /usr/bin/iconv    /Developer-Old/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/MuseumDomDB.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s332413052.623682
+e332413052.628692
+r1
+xCpResource
+xbuild/Release/MuseumDomDB.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf332413052#332413052#0(0"0(0#0#109"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/Credits.rtf8617702624#535"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    /Developer-Old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/English.lproj/Credits.rtf /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/English.lproj0#
+
+CDataModelVersionCompile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument.momd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDDocument.xcdatamodeld
+s332413056.155378
+e332413056.213864
+r1
+xDataModelVersionCompile
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument.momd
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDDocument.xcdatamodeld
+lSLF07#2@132"DataModelVersionCompile build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument.momd Source/Models/ZKMMDDocument.xcdatamodeld332413056#332413056#0(0"0(0#0#124"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDDocument.xcdatamodeld8621018208#429"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    /Developer-Old/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Source/Models/ZKMMDDocument.xcdatamodeld /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument.momd0#
+
+CGenerateDSYMFile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app.dSYM /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB
+s332413057.208341
+e332413057.246908
+r1
+xGenerateDSYMFile
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app.dSYM
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB
+lSLF07#2@108"GenerateDSYMFile build/Release/MuseumDomDB.app.dSYM build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB332413057#332413057#0(0"0(0#0#140"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB8602885504#390"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    /Developer-Old/usr/bin/dsymutil /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB -o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app.dSYM0#
+
+CLd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB normal i386
+s332413056.490180
+e332413057.208224
+r1
+xLd
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB
+xnormal
+xi386
+lSLF07#2@145"Link /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB332413056#332413057#0(0"0(0#0#0"8603565664#799"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer-Old/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer-Old/SDKs/MacOSX10.6.sdk -L/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release -F/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release -filelist /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/Objects-normal/i386/MuseumDomDB.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/MacOS/MuseumDomDB0#
+
+CMappingModelCompile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument10-11.cdm /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/ZKMMDDocument10-11.xcmappingmodel
+s332413056.156118
+e332413056.206811
+r1
+xMappingModelCompile
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument10-11.cdm
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/ZKMMDDocument10-11.xcmappingmodel
+lSLF07#2@125"MappingModelCompile build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument10-11.cdm ZKMMDDocument10-11.xcmappingmodel332413056#332413056#0(0"0(0#0#117"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/ZKMMDDocument10-11.xcmappingmodel8617158560#425"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    /Developer-Old/usr/bin/mapc -XDMAPC_TARGET_VERSION=10.5 /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/ZKMMDDocument10-11.xcmappingmodel /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Resources/ZKMMDDocument10-11.cdm0#
+
+CProcessInfoPlistFile /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Info.plist Info.plist
+s332413052.619316
+e332413052.623606
+r1
+xProcessInfoPlistFile
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist332413052#332413052#0(0"0(0#0#94"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/Info.plist8602864928#449"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    builtin-infoPlistUtility Info.plist -genpkginfo /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/MuseumDomDB_Prefix-eeejkohkdmzdxegkffwjutckxygb/MuseumDomDB_Prefix.pch.gch MuseumDomDB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332413052.899040
+e332413056.155232
+r1
+xProcessPCH
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/MuseumDomDB_Prefix-eeejkohkdmzdxegkffwjutckxygb/MuseumDomDB_Prefix.pch.gch
+xMuseumDomDB_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MuseumDomDB_Prefix.pch332413052#332413056#0(0"0(0#0#106"/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/MuseumDomDB_Prefix.pch8617817824#1377"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/MuseumDomDB.hmap -F/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/include -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/DerivedSources/i386 -I/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/MuseumDomDB.build/Release/MuseumDomDB.build/DerivedSources -c /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/MuseumDomDB_Prefix.pch -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/MuseumDomDB_Prefix-eeejkohkdmzdxegkffwjutckxygb/MuseumDomDB_Prefix.pch.gch0#
+
+CTouch /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app
+s332413057.246995
+e332413057.249960
+r1
+xTouch
+x/Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app
+lSLF07#2@119"Touch /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app332413057#332413057#0(0"0(0#0#0"8618845280#227"    cd /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB    /usr/bin/touch -c /Users/jens/Projects2011/ZirkoniumMuseumDebug/zirkonium/ZirkoniumMuseum/MuseumDomDB/build/Release/MuseumDomDB.app0#
+

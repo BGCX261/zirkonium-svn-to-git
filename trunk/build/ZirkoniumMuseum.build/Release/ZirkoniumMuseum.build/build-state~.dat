@@ -1,0 +1,2331 @@
+TZirkoniumMuseum
+v7
+r1
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC400730000000000000A22
+t1287913587
+s2594
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioUnit.framework/Headers/AudioUnit.h
+c000000004CC40066000000000000041D
+t1287913574
+s1053
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudio.h
+c000000004CC3F024000000000000034B
+t1287909412
+s843
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC40376000000000000043A
+t1287914358
+s1082
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC3E8CB0000000000000AF4
+t1287907531
+s2804
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004CC42BAC000000000000578C
+t1287924652
+s22412
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BD2501F0000000000025B59
+t1272074271
+s154457
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glext.h
+c000000004BD2501F0000000000042ACF
+t1272074271
+s273103
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTKit.h
+c000000004CC35B7E000000000000044A
+t1287871358
+s1098
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC4130B00000000000000BF
+t1287918347
+s191
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004BBD2CC60000000000001533
+t1270688966
+s5427
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004CC3DE650000000000005414
+t1287904869
+s21524
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/objc/runtime.h
+c000000004CC31CFD000000000000530A
+t1287855357
+s21258
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004CC3DE6800000000000059BC
+t1287904872
+s22972
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004CC3DE680000000000001E17
+t1287904872
+s7703
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004CC3DE680000000000002905
+t1287904872
+s10501
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/sys/uio.h
+c000000004CC3DE680000000000001126
+t1287904872
+s4390
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EB2400000000000010DD
+t1242688292
+s4317
+
+N/Developer-Old/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C91794F00000000004D2720
+t1284602191
+s5056288
+
+N/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000004C91781A0000000000012150
+t1284601882
+s74064
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004CD4F57800000000002181A0
+t1289024888
+s2195872
+
+N/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B73FC5E000000000052F740
+t1265892446
+s5437248
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004C971DAF0000000000781330
+t1284971951
+s7869232
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004D22BC490000000000043330
+t1294122057
+s275248
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CBF770C0000000000D00CA0
+t1287616268
+s13634720
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Frameworks/VVOSC.framework/Headers/VVOSC.h
+c000000004CAD8A880000000000000C14
+t1286441608
+s3092
+i"OSCConstants.h"
+i"OSCValue.h"
+i"OSCMessage.h"
+i"OSCBundle.h"
+i"OSCPacket.h"
+i"OSCInPort.h"
+i"OSCOutPort.h"
+i"OSCManager.h"
+i"OSCZeroConfManager.h"
+i"OSCNode.h"
+i"OSCAddressSpace.h"
+i"OSCStringAdditions.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/OSCController.h
+c000000004CAD8A88000000000000069F
+t1286441608
+s1695
+i<Cocoa/Cocoa.h>
+i"VVOSC/VVOSC.h"
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNStudioSetupDocument.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/OSCController.m
+c000000004E9FFB9E00000000000042B5
+t1319107486
+s17077
+i"OSCController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNContainerArrayController.h
+c000000004E2DA4880000000000000112
+t1311614088
+s274
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNContainerArrayController.m
+c000000004CAD8A8800000000000002AE
+t1286441608
+s686
+i"ZKMRNContainerArrayController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNEventsArrayController.h
+c000000004CAD8A88000000000000022B
+t1286441608
+s555
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNEventsArrayController.m
+c000000004CAD8A880000000000000609
+t1286441608
+s1545
+i"ZKMRNEventsArrayController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNGroupsArrayController.h
+c000000004CAD8A8800000000000000F4
+t1286441608
+s244
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNGroupsArrayController.m
+c000000004CAD8A8800000000000000F0
+t1286441608
+s240
+i"ZKMRNGroupsArrayController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNManagedObjectExtensions.h
+c000000004CAD8A880000000000000218
+t1286441608
+s536
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNManagedObjectExtensions.m
+c000000004CAD8A880000000000000258
+t1286441608
+s600
+i"ZKMRNManagedObjectExtensions.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPieceDocument.h
+c000000004E37D00E00000000000013C7
+t1312280590
+s5063
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i"ZKMRNTimeWatch.h"
+i"ZKMRNSpatializerView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPieceDocument.m
+c000000004E37EB14000000000000B63E
+t1312287508
+s46654
+i"ZKMRNPieceDocument.h"
+i"ZKMRNZirkoniumUISystem.h"
+i"ZKMRNGraphChannel.h"
+i"ZKMRNSpatializerView.h"
+i"ZKMRNPositionEvent.h"
+i"ZKMRNAudioSource.h"
+i"ZKMRNFileSource.h"
+i"ZKMRNManagedObjectExtensions.h"
+i"ZKMRNChannelGroup.h"
+i"ZKMRNPieceDocumentWindowController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPieceDocumentWindowController.h
+c000000004CAD8A880000000000000109
+t1286441608
+s265
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPieceDocumentWindowController.m
+c000000004CAD8A880000000000000198
+t1286441608
+s408
+i"ZKMRNPieceDocumentWindowController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPreferencesController.h
+c000000004E3A4F1C0000000000001E4D
+t1312444188
+s7757
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i"OSCController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPreferencesController.m
+c000000004E3A5DFD0000000000009D8D
+t1312447997
+s40333
+i"ZKMRNPreferencesController.h"
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNStudioSetupDocument.h"
+i"ZKMRNDomeView.h"
+i"ZKMRNSpatializerView.h"
+i"ZKMRNSpeaker.h"
+i"ZKMRNSimpleMap.h"
+i"ZKMRNOutputPatch.h"
+i"ZKMRNOutputPatchChannel.h"
+i"ZKMRNTestSourceController.h"
+i"ZKMRNLightTableView.h"
+i"LightController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNStudioSetupDocument.h
+c000000004E37D8630000000000000DB2
+t1312282723
+s3506
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i"ZKMRNSpeakerSetupView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNStudioSetupDocument.m
+c000000004E6E0D4B00000000000083A4
+t1315835211
+s33700
+i"ZKMRNStudioSetupDocument.h"
+i"ZKMRNDomeView.h"
+i"ZKMRNChannelMapView.h"
+i"ZKMRNSpeakerRing.h"
+i"ZKMRNManagedObjectExtensions.h"
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNTestSourceController.h"
+i"ZKMRNOutputPatchChannel.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNTestSourceController.h
+c000000004CAD8A8800000000000007EC
+t1286441608
+s2028
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNTestSourceController.m
+c000000004CC6EAD70000000000002210
+t1288104663
+s8720
+i"ZKMRNTestSourceController.h"
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNOutputPatchChannel.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNZirkoniumSystem.h
+c000000004E396FEE0000000000001ED8
+t1312387054
+s7896
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNZirkoniumSystem.m
+c000000004E3A6D510000000000008A47
+t1312451921
+s35399
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNStudioSetupDocument.h"
+i"ZKMRNPreferencesController.h"
+i"ZKMRNPieceDocument.h"
+i"ZKMRNOutputPatch.h"
+i"ZKMRNOutputPatchChannel.h"
+i"ZKMORLoggerClient.h"
+i"ZKMRNTestSourceController.h"
+i"ZKMRNOutputPatchChannel.h"
+i"ZKMRNDirectOutPatchChannel.h"
+i"LightController.h"
+i"CoreDataWorkaround.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNZirkoniumUISystem.h
+c000000004CAD8A880000000000000238
+t1286441608
+s568
+i"ZKMRNZirkoniumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNZirkoniumUISystem.m
+c000000004CC14B95000000000000036B
+t1287736213
+s875
+i"ZKMRNZirkoniumUISystem.h"
+i"ZKMRNPreferencesController.h"
+i"ZKMRNStudioSetupDocument.h"
+i"ZKMRNPreferencesController.h"
+i"ZKMRNPieceDocument.h"
+i"ZKMRNOutputPatch.h"
+i"ZKMRNOutputPatchChannel.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/English.lproj/ZKMRNPreferences.nib
+c000000004E3A5CCE00000000000000AA
+t1312447694
+s170
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/English.lproj/ZKMRNStudioSetupDocument.nib
+c000000004D83109A00000000000000AA
+t1300435098
+s170
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Frameworks/VVBasics.framework
+c000000004CAD8A8800000000000000CC
+t1286441608
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Frameworks/VVBasics.framework/VVBasics
+c000000004CAD8A8800000000000A87E8
+t1286441608
+s690152
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Frameworks/VVMIDI.framework
+c000000004CAD8A8800000000000000CC
+t1286441608
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Frameworks/VVMIDI.framework/VVMIDI
+c000000004CAD8A880000000000036790
+t1286441608
+s223120
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Frameworks/VVOSC.framework
+c000000004CAD8A8800000000000000CC
+t1286441608
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Frameworks/VVOSC.framework/VVOSC
+c000000004CAD8A880000000000080008
+t1286441608
+s524296
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/LightController.h
+c000000004E3A6343000000000000060A
+t1312449347
+s1546
+i<Cocoa/Cocoa.h>
+i"VVOSC/VVOSC.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/LightController.m
+c000000004E3A6AAB0000000000002D59
+t1312451243
+s11609
+i"LightController.h"
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNSpeakerSetup.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/InputSetup.xcdatamodeld
+c000000004E37F78D00000000000000CC
+t1312290701
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNAbstractInOutPatch.h
+c000000004CB883BF000000000000026E
+t1287160767
+s622
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNAbstractInOutPatch.m
+c000000004CB892F10000000000000F5E
+t1287164657
+s3934
+i"ZKMRNAbstractInOutPatch.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNAbstractInOutPatchChannel.h
+c000000004CB892FB00000000000001F6
+t1287164667
+s502
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNAbstractInOutPatchChannel.m
+c000000004CB892E70000000000001A01
+t1287164647
+s6657
+i"ZKMRNAbstractInOutPatchChannel.h"
+i"ZKMRNAbstractInOutPatch.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNDirectOutPatch.h
+c000000004CAD8A880000000000000146
+t1286441608
+s326
+i<Cocoa/Cocoa.h>
+i"ZKMRNAbstractInOutPatch.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNDirectOutPatch.m
+c000000004CAD8A8800000000000002A9
+t1286441608
+s681
+i"ZKMRNDirectOutPatch.h"
+i"ZKMRNZirkoniumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNDirectOutPatchChannel.h
+c000000004CAD8A880000000000000145
+t1286441608
+s325
+i<Cocoa/Cocoa.h>
+i"ZKMRNAbstractInOutPatchChannel.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNDirectOutPatchChannel.m
+c000000004CB591050000000000000829
+t1286967557
+s2089
+i"ZKMRNDirectOutPatchChannel.h"
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNPieceDocument.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNInputPatch.h
+c000000004CADF6E8000000000000013D
+t1286469352
+s317
+i<Cocoa/Cocoa.h>
+i"ZKMRNAbstractInOutPatch.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNInputPatch.m
+c000000004CB8946D000000000000062A
+t1287165037
+s1578
+i"ZKMRNInputPatch.h"
+i"ZKMRNZirkoniumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNOutputPatch.h
+c000000004CADF6E8000000000000021F
+t1286469352
+s543
+i<Cocoa/Cocoa.h>
+i"ZKMRNAbstractInOutPatch.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNOutputPatch.m
+c000000004CB896BE0000000000001216
+t1287165630
+s4630
+i"ZKMRNOutputPatch.h"
+i"ZKMRNZirkoniumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNOutputPatchChannel.h
+c000000004CAD8A8800000000000001F7
+t1286441608
+s503
+i<Cocoa/Cocoa.h>
+i"ZKMRNAbstractInOutPatchChannel.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNOutputPatchChannel.m
+c000000004CB6CA8900000000000005AB
+t1287047817
+s1451
+i"ZKMRNOutputPatchChannel.h"
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNPieceDocument.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/PieceDocument.xcdatamodeld
+c000000004E37F78D00000000000000EE
+t1312290701
+s238
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNAudioSource.h
+c000000004CAD8A8800000000000001AA
+t1286441608
+s426
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNAudioSource.m
+c000000004CAD8A8800000000000002BC
+t1286441608
+s700
+i"ZKMRNAudioSource.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNCartesianEvent.h
+c000000004CAD8A88000000000000012E
+t1286441608
+s302
+i<Cocoa/Cocoa.h>
+i"ZKMRNEvent.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNCartesianEvent.m
+c000000004CAD8A880000000000000848
+t1286441608
+s2120
+i"ZKMRNCartesianEvent.h"
+i"ZKMRNGraphChannel.h"
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNChannelGroup.h
+c000000004CAD8A880000000000000173
+t1286441608
+s371
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNChannelGroup.m
+c000000004CAD8A880000000000000622
+t1286441608
+s1570
+i"ZKMRNChannelGroup.h"
+i"ZKMRNGraphChannel.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNEvent.h
+c000000004CAD8A880000000000000679
+t1286441608
+s1657
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNEvent.m
+c000000004CAD8A8800000000000030E0
+t1286441608
+s12512
+i"ZKMRNEvent.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNFileSource.h
+c000000004CAD8A880000000000000196
+t1286441608
+s406
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i"ZKMRNAudioSource.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNFileSource.m
+c000000004CAD8A880000000000001012
+t1286441608
+s4114
+i"ZKMRNFileSource.h"
+i"ZKMRNZirkoniumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNGraph.h
+c000000004CAD8A88000000000000036C
+t1286441608
+s876
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNGraph.m
+c000000004CAD8A88000000000000372A
+t1286441608
+s14122
+i"ZKMRNGraph.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNGraphChannel.h
+c000000004CAD8A8800000000000004D6
+t1286441608
+s1238
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNGraphChannel.m
+c000000004CB5910500000000000024EA
+t1286967557
+s9450
+i"ZKMRNGraphChannel.h"
+i"ZKMRNZirkoniumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNInputSource.h
+c000000004CAD8A88000000000000014E
+t1286441608
+s334
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i"ZKMRNAudioSource.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNInputSource.m
+c000000004CC18E7C0000000000000260
+t1287753340
+s608
+i"ZKMRNInputSource.h"
+i"ZKMRNZirkoniumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNPositionEvent.h
+c000000004CAD8A880000000000000139
+t1286441608
+s313
+i<Cocoa/Cocoa.h>
+i"ZKMRNEvent.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNPositionEvent.m
+c000000004CAD8A8800000000000008AB
+t1286441608
+s2219
+i"ZKMRNPositionEvent.h"
+i"ZKMRNGraphChannel.h"
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNTestSource.h
+c000000004CAD8A880000000000000201
+t1286441608
+s513
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i"ZKMRNAudioSource.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNTestSource.m
+c000000004CAD8A880000000000000A74
+t1286441608
+s2676
+i"ZKMRNTestSource.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/CoreDataWorkaround.h
+c000000004CAD8A8800000000000000F7
+t1286441608
+s247
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/CoreDataWorkaround.m
+c000000004CAD8A880000000000001AFA
+t1286441608
+s6906
+i"CoreDataWorkaround.h"
+i<Cocoa/Cocoa.h>
+i<objc/runtime.h>
+i<CoreData/CoreData.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/StudioSetup.xcdatamodeld
+c000000004E37F78D00000000000000CC
+t1312290701
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNChannelMap.h
+c000000004CAD8A8800000000000003DA
+t1286441608
+s986
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNChannelMap.m
+c000000004CAD8A8800000000000015BF
+t1286441608
+s5567
+i"ZKMRNChannelMap.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNRoom.h
+c000000004CAEC69F00000000000000ED
+t1286522527
+s237
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNRoom.m
+c000000004CAEC6A70000000000000163
+t1286522535
+s355
+i"ZKMRNRoom.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSimpleMap.h
+c000000004CAD8A88000000000000022F
+t1286441608
+s559
+i<Cocoa/Cocoa.h>
+i"ZKMRNChannelMap.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSimpleMap.m
+c000000004CAD8A8800000000000004AA
+t1286441608
+s1194
+i"ZKMRNSimpleMap.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeaker.h
+c000000004CAD8A880000000000000321
+t1286441608
+s801
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeaker.m
+c000000004CB6E5E50000000000001880
+t1287054821
+s6272
+i"ZKMRNSpeaker.h"
+i"ZKMRNSpeakerRing.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeakerRing.h
+c000000004CAD8A88000000000000019A
+t1286441608
+s410
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeakerRing.m
+c000000004CB43D97000000000000094F
+t1286880663
+s2383
+i"ZKMRNSpeakerRing.h"
+i"ZKMRNSpeakerSetup.h"
+i"ZKMRNManagedObjectExtensions.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeakerSetup.h
+c000000004CADCB1600000000000001E0
+t1286458134
+s480
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeakerSetup.m
+c000000004E37E19900000000000010F2
+t1312285081
+s4338
+i"ZKMRNSpeakerSetup.h"
+i"ZKMRNSpeaker.h"
+i"ZKMRNManagedObjectExtensions.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/D3_zkm_La_sw.pdf
+c000000004CAD8A8800000000000020D9
+t1286441608
+s8409
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/LegacyMetadata.plist
+c000000004CAD8A880000000000000C00
+t1286441608
+s3072
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/LegacyMetadataV2.plist
+c000000004CAD8A8800000000000012C9
+t1286441608
+s4809
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/Play.png
+c000000004DBFDBFA0000000000000650
+t1304419322
+s1616
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/RecordOff.png
+c000000004DBECFAA0000000000000654
+t1304350634
+s1620
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/RecordOn.png
+c000000004DBECE830000000000000677
+t1304350339
+s1655
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/Rewind.png
+c000000004DBFDBE80000000000000644
+t1304419304
+s1604
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/Stop.png
+c000000004DBFDBF200000000000005E6
+t1304419314
+s1510
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/Zirkonium-file.icns
+c000000004CAD8A88000000000000EEEE
+t1286441608
+s61166
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/Zirkonium.icns
+c000000004CAD8A88000000000001262B
+t1286441608
+s75307
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/defaultsetup.zrkstu
+c000000004CAD8A88000000000000AA37
+t1286441608
+s43575
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/defaultstudio.zrkstu
+c000000004D74E766000000000001ECE7
+t1299507046
+s126183
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/minus-8.png
+c000000004CAD8A88000000000000004B
+t1286441608
+s75
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/plus-8.png
+c000000004CAD8A880000000000000052
+t1286441608
+s82
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/studio.zrkstu
+c000000004CAD8A88000000000002AF9C
+t1286441608
+s176028
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Resources/studio2.zip
+c000000004D820A1D0000000000011812
+t1300367901
+s71698
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMORLoggerClient.h
+c000000004CAD8A880000000000000365
+t1286441608
+s869
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMORLoggerClient.mm
+c000000004CAD8A8800000000000011A9
+t1286441608
+s4521
+i"ZKMORLoggerClient.h"
+i<Syncretism/ZKMORLoggerCPP.h>
+i<Syncretism/CAGuard.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNChannelMapView.h
+c000000004CAD8A880000000000000252
+t1286441608
+s594
+i<Cocoa/Cocoa.h>
+i"ZKMRNOpenGLView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNChannelMapView.m
+c000000004CAD8A880000000000001FCE
+t1286441608
+s8142
+i"ZKMRNChannelMapView.h"
+i"ZKMRNOpenGLShapes.h"
+i<OpenGL/gl.h>
+i<OpenGL/glext.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNDomeView.h
+c000000004E37D7BF0000000000000F43
+t1312282559
+s3907
+i"ZKMRNOpenGLView.h"
+i"ZKMRNDomeViewCameraAdjustment.h"
+i"ZKMRNSpeaker.h"
+i"ZKMRNTextures.h"
+i"ZKMRNOpenGLShapes.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNDomeView.m
+c000000004E37F0620000000000003AA0
+t1312288866
+s15008
+i"ZKMRNDomeView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glext.h>
+i"ZKMRNZirkoniumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNDomeViewCameraAdjustment.h
+c000000004CAD8A8800000000000001B2
+t1286441608
+s434
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNDomeViewCameraAdjustment.m
+c000000004CAED4CF0000000000000780
+t1286526159
+s1920
+i"ZKMRNDomeViewCameraAdjustment.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNGradientView.h
+c000000004E397059000000000000017F
+t1312387161
+s383
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNGradientView.m
+c000000004E3A41E1000000000000085D
+t1312440801
+s2141
+i"ZKMRNGradientView.h"
+i"LightController.h"
+i"ZKMRNLightTableView.h"
+i<Syncretism/ZKMORUtilities.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNLightTableView.h
+c000000004E3971450000000000000226
+t1312387397
+s550
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNLightTableView.m
+c000000004E3A423F0000000000000B67
+t1312440895
+s2919
+i"ZKMRNLightTableView.h"
+i"LightController.h"
+i<Syncretism/ZKMORUtilities.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNOpenGLShapes.h
+c000000004CAD8A880000000000000352
+t1286441608
+s850
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i<glut/glut.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNOpenGLShapes.m
+c000000004CAD8A8800000000000015D2
+t1286441608
+s5586
+i"ZKMRNOpenGLShapes.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNOpenGLView.h
+c000000004E37D7F00000000000000858
+t1312282608
+s2136
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i"ZKMRNTextures.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNOpenGLView.m
+c000000004E37F1B00000000000001A86
+t1312289200
+s6790
+i"ZKMRNOpenGLView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNSpatializerView.h
+c000000004E37DC690000000000000641
+t1312283753
+s1601
+i<Cocoa/Cocoa.h>
+i"ZKMRNDomeView.h"
+i"ZKMRNOpenGLShapes.h"
+i"ZKMRNSpatializerViewCameraAdjustment.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNSpatializerView.m
+c000000004E37F8C60000000000002C5A
+t1312291014
+s11354
+i"ZKMRNSpatializerView.h"
+i"ZKMRNOpenGLShapes.h"
+i"ZKMRNGraphChannel.h"
+i"ZKMRNZirkoniumSystem.h"
+i"ZKMRNSpeaker.h"
+i<OpenGL/gl.h>
+i<OpenGL/glext.h>
+i<GLUT/glut.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNSpatializerViewCameraAdjustment.h
+c000000004CAEE25D000000000000018D
+t1286529629
+s397
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNSpatializerViewCameraAdjustment.m
+c000000004CAEE5EB0000000000000322
+t1286530539
+s802
+i"ZKMRNSpatializerViewCameraAdjustment.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNTimeWatch.h
+c000000004CAD8A88000000000000032C
+t1286441608
+s812
+i<Cocoa/Cocoa.h>
+i"ZKMRNFileSource.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNTimeWatch.m
+c000000004DBFE13600000000000011EC
+t1304420662
+s4588
+i"ZKMRNTimeWatch.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/ZKMRNSpeakerSetupView.h
+c000000004E37D7920000000000000232
+t1312282514
+s562
+i<Cocoa/Cocoa.h>
+i"ZKMRNDomeView.h"
+i"ZKMRNTextures.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/ZKMRNSpeakerSetupView.m
+c000000004E37D74200000000000011F1
+t1312282434
+s4593
+i"ZKMRNSpeakerSetupView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/ZKMRNTextures.h
+c000000004E37D68700000000000005E1
+t1312282247
+s1505
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/ZKMRNTextures.m
+c000000004E37D65D0000000000002007
+t1312282205
+s8199
+i"ZKMRNTextures.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app.dSYM
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Frameworks/Syncretism.framework
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Frameworks/VVBasics.framework
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Frameworks/VVMIDI.framework
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Frameworks/VVOSC.framework
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/MacOS/ZirkoniumMuseum
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/D3_zkm_La_sw.pdf
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/English.lproj/ZKMRNPreferences.nib
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/English.lproj/ZKMRNStudioSetupDocument.nib
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/English.lproj/ZirkoniumMuseum.nib
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/InputSetup.momd
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/LegacyMetadata.plist
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/LegacyMetadataV2.plist
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/PieceDocument.momd
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Play.png
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/RecordOff.png
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/RecordOn.png
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Rewind.png
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Stop.png
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/StudioSetup.momd
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/ZKMMDDocument.momd
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/ZKMMDDocument10-11.cdm
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/ZKMMDDocument10-2.cdm
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Zirkonium-file.icns
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Zirkonium.icns
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/defaultsetup.zrkstu
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/defaultstudio.zrkstu
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/minus-8.png
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/plus-8.png
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/studio.zrkstu
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/studio2.zip
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/CoreDataWorkaround.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ItemView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/LanBox.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/LightController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/MuseumView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/OSCController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMMDPiece.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMORLoggerClient.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRLMixerLight.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRLOutputDMX.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRLPannerLight.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMBorderlessWindow.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMLightController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMMuseumSystem.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMPlaybackMode.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMPlaybackPiece.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMTextLayerManager.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMUserWatchdog.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNAbstractInOutPatch.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNAbstractInOutPatchChannel.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNAudioSource.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNCartesianEvent.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNChannelGroup.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNChannelMap.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNChannelMapView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNContainerArrayController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNDirectOutPatch.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNDirectOutPatchChannel.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNDomeView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNDomeViewCameraAdjustment.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNEvent.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNEventsArrayController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNFileSource.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNGradientView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNGraph.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNGraphChannel.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNGroupsArrayController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNInputPatch.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNInputSource.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNLightTableView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNManagedObjectExtensions.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNOpenGLShapes.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNOpenGLView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNOutputPatch.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNOutputPatchChannel.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNPieceDocument.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNPieceDocumentWindowController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNPositionEvent.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNPreferencesController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNRoom.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSimpleMap.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpatializerView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpatializerViewCameraAdjustment.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpeaker.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpeakerRing.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpeakerSetup.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpeakerSetupView.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNStudioSetupDocument.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNTestSource.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNTestSourceController.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNTextures.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNTimeWatch.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNZirkoniumSystem.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNZirkoniumUISystem.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZirkoniumMuseum.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/Source/Models/ZKMMDDocument.xcdatamodeld
+c000000004E393C8000000000000000CC
+t1312373888
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/Source/Models/ZKMMDPiece.h
+c000000004E3952F6000000000000043C
+t1312379638
+s1084
+i<CoreData/CoreData.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/Source/Models/ZKMMDPiece.m
+c000000004E3953030000000000000BC4
+t1312379651
+s3012
+i"ZKMMDPiece.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/ZKMMDDocument10-11.xcmappingmodel
+c000000004E393CD50000000000000066
+t1312373973
+s102
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/ZKMMDDocument10-2.xcmappingmodel
+c000000004E393CD20000000000000066
+t1312373970
+s102
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/AppDelegate.h
+c000000004E26A4DE000000000000015D
+t1311155422
+s349
+i<Cocoa/Cocoa.h>
+i"ZKMRMMuseumSystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/English.lproj/InfoPlist.strings
+c000000004A645FF9000000000000005C
+t1248092153
+s92
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/English.lproj/ZirkoniumMuseum.xib
+c000000004E37F9AA000000000002223A
+t1312291242
+s139834
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/../AppDelegate.m
+c000000004E26A62E0000000000000117
+t1311155758
+s279
+i"AppDelegate.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/LanBox.c
+c0000000046AE00610000000000000773
+t1185808481
+s1907
+i"LanBox.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/LanBox.h
+c0000000046AE0061000000000000077F
+t1185808481
+s1919
+i<stdint.h>
+i<unistd.h>
+i<stdio.h>
+i<errno.h>
+i<string.h>
+i<sys/uio.h>
+i<sys/types.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLMixerLight.h
+c0000000046AE006100000000000008FC
+t1185808481
+s2300
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLMixerLight.m
+c000000004AAFA2E50000000000001179
+t1253024485
+s4473
+i"ZKMRLMixerLight.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLOutputDMX.h
+c000000004AB0AF2300000000000004BA
+t1253093155
+s1210
+i<Cocoa/Cocoa.h>
+i"LanBox.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLOutputDMX.m
+c000000004ACE515F000000000000330C
+t1255035231
+s13068
+i"ZKMRLOutputDMX.h"
+i"ZKMRLMixerLight.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLPannerLight.h
+c0000000046AE0061000000000000068A
+t1185808481
+s1674
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLPannerLight.m
+c000000004AAFA31B0000000000000C6F
+t1253024539
+s3183
+i"ZKMRLPannerLight.h"
+i"ZKMRLMixerLight.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ItemView.h
+c000000004E26A63D00000000000000E8
+t1311155773
+s232
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ItemView.m
+c000000004E26A6380000000000000358
+t1311155768
+s856
+i"ItemView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/MuseumView.h
+c000000004E37F95700000000000000FD
+t1312291159
+s253
+i<Cocoa/Cocoa.h>
+i"ZKMRNSpatializerView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/MuseumView.m
+c000000004E393B6100000000000001D0
+t1312373601
+s464
+i"MuseumView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMBorderlessWindow.h
+c000000004A7AE37300000000000000F2
+t1249567603
+s242
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMBorderlessWindow.m
+c000000004E26A39C000000000000031F
+t1311155100
+s799
+i"ZKMRMBorderlessWindow.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMLightController.h
+c000000004E3A660A0000000000000230
+t1312450058
+s560
+i<Cocoa/Cocoa.h>
+i"LightController.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMLightController.m
+c000000004E3A6D2000000000000011F8
+t1312451872
+s4600
+i"ZKMRMLightController.h"
+i"ZKMRMMuseumSystem.h"
+i"ZKMRLPannerLight.h"
+i"ZKMRLMixerLight.h"
+i"ZKMRLOutputDMX.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMMuseumSystem.h
+c000000004E39507E00000000000007EC
+t1312379006
+s2028
+i"ZKMRNZirkoniumUISystem.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMMuseumSystem.m
+c000000004E39571B000000000000357E
+t1312380699
+s13694
+i"ZKMRMMuseumSystem.h"
+i"ZKMMDPiece.h"
+i"ZKMRMPlaybackPiece.h"
+i"ZKMRNSpatializerView.h"
+i"ZKMRMTextLayerManager.h"
+i"ZKMRMUserWatchdog.h"
+i"ZKMRLPannerLight.h"
+i"ZKMRLMixerLight.h"
+i"ZKMRLOutputDMX.h"
+i"ZKMRMLightController.h"
+i"ItemView.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMPlaybackMode.h
+c000000004A9FE4370000000000000184
+t1251992631
+s388
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMPlaybackMode.m
+c000000004A9FE9040000000000000175
+t1251993860
+s373
+i"ZKMRMPlaybackMode.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMPlaybackPiece.h
+c000000004E2EAE390000000000000900
+t1311682105
+s2304
+i<Cocoa/Cocoa.h>
+i<Syncretism/Syncretism.h>
+i"ZKMMDPiece.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMPlaybackPiece.m
+c000000004E39210C000000000000595B
+t1312366860
+s22875
+i"ZKMRMPlaybackPiece.h"
+i"ZKMRNZirkoniumUISystem.h"
+i"ZKMRNGraphChannel.h"
+i"ZKMRNSpatializerView.h"
+i"ZKMRNPositionEvent.h"
+i"ZKMRNAudioSource.h"
+i"ZKMRNFileSource.h"
+i"ZKMRNManagedObjectExtensions.h"
+i<Syncretism/ZKMNRValueTransformer.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMTextLayerManager.h
+c000000004E26D1940000000000000331
+t1311166868
+s817
+i<Cocoa/Cocoa.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMTextLayerManager.m
+c000000004E3920F40000000000001CA6
+t1312366836
+s7334
+i"ZKMRMTextLayerManager.h"
+i"ZKMMDPiece.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMUserWatchdog.h
+c000000004A9FECB2000000000000011C
+t1251994802
+s284
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMUserWatchdog.m
+c000000004AC26E9D00000000000005DE
+t1254256285
+s1502
+i"ZKMRMUserWatchdog.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/ZirkoniumMuseum_Prefix.pch
+c000000004A645FF900000000000000A1
+t1248092153
+s161
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/main.m
+c000000004A645FF90000000000000109
+t1248092153
+s265
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework
+c000000004E2D61E600000000000000CC
+t1311597030
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/CAGuard.h
+c000000004E2D61DD000000000000138D
+t1311597021
+s5005
+i"CAMutex.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/Syncretism.h
+c000000004E2D61DD000000000000063E
+t1311597021
+s1598
+i<Syncretism/ZKMORAudioFile.h>
+i<Syncretism/ZKMORAudioFileOutput.h>
+i<Syncretism/ZKMORAudioHardwareSystem.h>
+i<Syncretism/ZKMORAudioUnit.h>
+i<Syncretism/ZKMORAudioUnitMirror.h>
+i<Syncretism/ZKMORAudioUnitParameterScheduler.h>
+i<Syncretism/ZKMORAudioUnitSystem.h>
+i<Syncretism/ZKMORClock.h>
+i<Syncretism/ZKMORConduit.h>
+i<Syncretism/ZKMORCore.h>
+i<Syncretism/ZKMORDeviceOutput.h>
+i<Syncretism/ZKMORException.h>
+i<Syncretism/ZKMORGraph.h>
+i<Syncretism/ZKMORLogger.h>
+i<Syncretism/ZKMORLogPrinter.h>
+i<Syncretism/ZKMORMixer3D.h>
+i<Syncretism/ZKMORMixerMatrix.h>
+i<Syncretism/ZKMORNoise.h>
+i<Syncretism/ZKMOROutput.h>
+i<Syncretism/ZKMORQuickTime.h>
+i<Syncretism/ZKMORRenderSimulator.h>
+i<Syncretism/ZKMORUtilities.h>
+i<Syncretism/ZKMNRCoordinates.h>
+i<Syncretism/ZKMNREventScheduler.h>
+i<Syncretism/ZKMNRLinearAlgebra.h>
+i<Syncretism/ZKMNRPanner.h>
+i<Syncretism/ZKMNRPannerEvent.h>
+i<Syncretism/ZKMNRSpeakerLayout.h>
+i<Syncretism/ZKMNRSpeakerLayoutSimulator.h>
+i<Syncretism/ZKMNRSpeakerLayoutSimulator.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMNRCoordinates.h
+c000000004E2D61DD0000000000001AB5
+t1311597021
+s6837
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMNREventScheduler.h
+c000000004E2D61DD0000000000000F37
+t1311597021
+s3895
+i<Cocoa/Cocoa.h>
+i"ZKMORClock.h"
+i"ZKMORGraph.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMNRLinearAlgebra.h
+c000000004E2D61DD00000000000006F4
+t1311597021
+s1780
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMNRPanner.h
+c000000004E2D61DD0000000000001FD8
+t1311597021
+s8152
+i<Cocoa/Cocoa.h>
+i"ZKMNRCoordinates.h"
+i"ZKMNREventScheduler.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMNRPannerEvent.h
+c000000004E2D61DD000000000000087B
+t1311597021
+s2171
+i<Cocoa/Cocoa.h>
+i"ZKMNREventScheduler.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMNRSpeakerLayout.h
+c000000004E2D61DD000000000000130C
+t1311597021
+s4876
+i"ZKMNRCoordinates.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMNRSpeakerLayoutSimulator.h
+c000000004E2D61DD00000000000006B9
+t1311597021
+s1721
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMNRValueTransformer.h
+c000000004E2D61DD00000000000005E5
+t1311597021
+s1509
+i<Cocoa/Cocoa.h>
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORAudioFile.h
+c000000004E2D61DD00000000000017BC
+t1311597021
+s6076
+i"ZKMORConduit.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORAudioFileOutput.h
+c000000004E2D61DD0000000000000869
+t1311597021
+s2153
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORAudioHardwareSystem.h
+c000000004E2D61DD0000000000000CB4
+t1311597021
+s3252
+i"ZKMORCore.h"
+i<CoreAudio/CoreAudio.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORAudioUnit.h
+c000000004E2D61DD0000000000000B90
+t1311597021
+s2960
+i"ZKMORConduit.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORAudioUnitMirror.h
+c000000004E2D61DD0000000000000AB0
+t1311597021
+s2736
+i"ZKMORCore.h"
+i<AudioUnit/AudioUnit.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORAudioUnitParameterScheduler.h
+c000000004E2D61DD000000000000053A
+t1311597021
+s1338
+i<Cocoa/Cocoa.h>
+i"ZKMORCore.h"
+i<AudioUnit/AudioUnit.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORAudioUnitSystem.h
+c000000004E2D61DD000000000000066C
+t1311597021
+s1644
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORClock.h
+c000000004E2D61DD0000000000000464
+t1311597021
+s1124
+i"ZKMORCore.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORConduit.h
+c000000004E2D61DD0000000000002D0C
+t1311597021
+s11532
+i<AudioUnit/AudioUnit.h>
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORCore.h
+c000000004E2D61DD000000000000039E
+t1311597021
+s926
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORDeviceOutput.h
+c000000004E2D61DD0000000000001319
+t1311597021
+s4889
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORException.h
+c000000004E2D61DD00000000000003EF
+t1311597021
+s1007
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORGraph.h
+c000000004E2D61DD0000000000001C0C
+t1311597021
+s7180
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORLogPrinter.h
+c000000004E2D61DD000000000000068C
+t1311597021
+s1676
+i"ZKMORLogger.h"
+i"ZKMORZone.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORLogger.h
+c000000004E2D61DD0000000000000E54
+t1311597021
+s3668
+i<CoreFoundation/CoreFoundation.h>
+i<sys/time.h>
+i<stdarg.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORLoggerCPP.h
+c000000004E2D61DD00000000000018DE
+t1311597021
+s6366
+i"ZKMORLogger.h"
+i"ZKMMPQueue.h"
+i<stdlib.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORMixer3D.h
+c000000004E2D61DD00000000000008A5
+t1311597021
+s2213
+i"ZKMORAudioUnit.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORMixerMatrix.h
+c000000004E2D61DD0000000000001545
+t1311597021
+s5445
+i"ZKMORAudioUnit.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORNoise.h
+c000000004E2D61DD0000000000000446
+t1311597021
+s1094
+i"ZKMORConduit.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMOROutput.h
+c000000004E2D61DD0000000000000557
+t1311597021
+s1367
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORQuickTime.h
+c000000004E2D61DD0000000000000936
+t1311597021
+s2358
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+i<QTKit/QTKit.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORRenderSimulator.h
+c000000004E2D61DD000000000000042D
+t1311597021
+s1069
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Headers/ZKMORUtilities.h
+c000000004E2D61DD000000000000069B
+t1311597021
+s1691
+i<AudioUnit/AudioUnit.h>
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework/Syncretism
+c000000004E2D61E60000000000178BF0
+t1311597030
+s1543152
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/ZirkoniumMuseum_Prefix-bcyhlaovlqcaowejmmcvjofdlmaa/ZirkoniumMuseum_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/ZirkoniumMuseum_Prefix-cwnrmydlexhkoqfunhmikeiwovsz/ZirkoniumMuseum_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/ZirkoniumMuseum_Prefix-fpxshkepxcpinefdyfhzzgqgbgva/ZirkoniumMuseum_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004A60A9710000000000000CFF
+t1247848817
+s3327
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/AppDelegate.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/../AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/CoreDataWorkaround.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/CoreDataWorkaround.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ItemView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ItemView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/LanBox.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/LanBox.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/LightController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/LightController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/MuseumView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/MuseumView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/OSCController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/OSCController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMMDPiece.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/Source/Models/ZKMMDPiece.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMORLoggerClient.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMORLoggerClient.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRLMixerLight.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLMixerLight.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRLOutputDMX.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLOutputDMX.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRLPannerLight.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/DMX/ZKMRLPannerLight.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMBorderlessWindow.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMBorderlessWindow.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMLightController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMLightController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMMuseumSystem.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMMuseumSystem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMPlaybackMode.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMPlaybackMode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMPlaybackPiece.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMPlaybackPiece.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMTextLayerManager.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMTextLayerManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRMUserWatchdog.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/Source/ZKMRMUserWatchdog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNAbstractInOutPatch.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNAbstractInOutPatch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNAbstractInOutPatchChannel.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNAbstractInOutPatchChannel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNAudioSource.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNAudioSource.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNCartesianEvent.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNCartesianEvent.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNChannelGroup.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNChannelGroup.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNChannelMap.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNChannelMap.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNChannelMapView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNChannelMapView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNContainerArrayController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNContainerArrayController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNDirectOutPatch.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNDirectOutPatch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNDirectOutPatchChannel.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNDirectOutPatchChannel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNDomeView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNDomeView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNDomeViewCameraAdjustment.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNDomeViewCameraAdjustment.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNEvent.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNEvent.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNEventsArrayController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNEventsArrayController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNFileSource.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNFileSource.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNGradientView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNGradientView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNGraph.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNGraph.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNGraphChannel.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNGraphChannel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNGroupsArrayController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNGroupsArrayController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNInputPatch.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNInputPatch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNInputSource.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNInputSource.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNLightTableView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNLightTableView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNManagedObjectExtensions.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNManagedObjectExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNOpenGLShapes.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNOpenGLShapes.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNOpenGLView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNOpenGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNOutputPatch.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNOutputPatch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNOutputPatchChannel.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/ZKMRNOutputPatchChannel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNPieceDocument.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPieceDocument.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNPieceDocumentWindowController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPieceDocumentWindowController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNPositionEvent.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNPositionEvent.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNPreferencesController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNPreferencesController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNRoom.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNRoom.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSimpleMap.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSimpleMap.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpatializerView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNSpatializerView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpatializerViewCameraAdjustment.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNSpatializerViewCameraAdjustment.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpeaker.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeaker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpeakerRing.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeakerRing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpeakerSetup.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/ZKMRNSpeakerSetup.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNSpeakerSetupView.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/ZKMRNSpeakerSetupView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNStudioSetupDocument.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNStudioSetupDocument.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNTestSource.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/ZKMRNTestSource.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNTestSourceController.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNTestSourceController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNTextures.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/ZKMRNTextures.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNTimeWatch.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Widgets/ZKMRNTimeWatch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNZirkoniumSystem.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNZirkoniumSystem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/ZKMRNZirkoniumUISystem.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Controllers/ZKMRNZirkoniumUISystem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../build/ZirkoniumMuseum.build/Release/ZirkoniumMuseum.build/Objects-normal/i386/main.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/English.lproj/ZirkoniumMuseum.xib"
+r0
+
+CCopyPlistFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/LegacyMetadata.plist" ../../Zirkonium/Resources/LegacyMetadata.plist
+r0
+
+CCopyPlistFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/LegacyMetadataV2.plist" ../../Zirkonium/Resources/LegacyMetadataV2.plist
+r0
+
+CCopyStringsFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/D3_zkm_La_sw.pdf ../../Zirkonium/Resources/D3_zkm_La_sw.pdf
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Play.png ../../Zirkonium/Resources/Play.png
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/RecordOff.png ../../Zirkonium/Resources/RecordOff.png
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/RecordOn.png ../../Zirkonium/Resources/RecordOn.png
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Rewind.png ../../Zirkonium/Resources/Rewind.png
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Stop.png ../../Zirkonium/Resources/Stop.png
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Zirkonium-file.icns ../../Zirkonium/Resources/Zirkonium-file.icns
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/Zirkonium.icns ../../Zirkonium/Resources/Zirkonium.icns
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/defaultsetup.zrkstu ../../Zirkonium/Resources/defaultsetup.zrkstu
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/defaultstudio.zrkstu ../../Zirkonium/Resources/defaultstudio.zrkstu
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/minus-8.png ../../Zirkonium/Resources/minus-8.png
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/plus-8.png ../../Zirkonium/Resources/plus-8.png
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/studio.zrkstu ../../Zirkonium/Resources/studio.zrkstu
+r0
+
+CCpResource ../../build/Release/ZirkoniumMuseum.app/Contents/Resources/studio2.zip ../../Zirkonium/Resources/studio2.zip
+r0
+
+CDataModelVersionCompile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/InputSetup.momd" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/InputSetup/InputSetup.xcdatamodeld"
+r0
+
+CDataModelVersionCompile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/PieceDocument.momd" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/Piece/PieceDocument.xcdatamodeld"
+r0
+
+CDataModelVersionCompile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/StudioSetup.momd" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/Model/StudioSetup/StudioSetup.xcdatamodeld"
+r0
+
+CDataModelVersionCompile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/ZKMMDDocument.momd" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/Source/Models/ZKMMDDocument.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app.dSYM" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/MacOS/ZirkoniumMuseum"
+r0
+
+CLd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/MacOS/ZirkoniumMuseum" normal i386
+r0
+
+CMappingModelCompile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/ZKMMDDocument10-11.cdm" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/ZKMMDDocument10-11.xcmappingmodel"
+r0
+
+CMappingModelCompile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Resources/ZKMMDDocument10-2.cdm" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../MuseumDomDB/ZKMMDDocument10-2.xcmappingmodel"
+r0
+
+CPBXCp ../../build/Release/ZirkoniumMuseum.app/Contents/Frameworks/Syncretism.framework "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Release/Syncretism.framework"
+r0
+
+CPBXCp ../../build/Release/ZirkoniumMuseum.app/Contents/Frameworks/VVBasics.framework ../../Zirkonium/Frameworks/VVBasics.framework
+r0
+
+CPBXCp ../../build/Release/ZirkoniumMuseum.app/Contents/Frameworks/VVMIDI.framework ../../Zirkonium/Frameworks/VVMIDI.framework
+r0
+
+CPBXCp ../../build/Release/ZirkoniumMuseum.app/Contents/Frameworks/VVOSC.framework ../../Zirkonium/Frameworks/VVOSC.framework
+r0
+
+CProcessInfoPlistFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app/Contents/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/ZirkoniumMuseum_Prefix-bcyhlaovlqcaowejmmcvjofdlmaa/ZirkoniumMuseum_Prefix.pch.gch ZirkoniumMuseum_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/ZirkoniumMuseum_Prefix-fpxshkepxcpinefdyfhzzgqgbgva/ZirkoniumMuseum_Prefix.pch.gch ZirkoniumMuseum_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/ZirkoniumMuseum_Prefix-cwnrmydlexhkoqfunhmikeiwovsz/ZirkoniumMuseum_Prefix.pch.gch ZirkoniumMuseum_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CStripNIB "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/English.lproj/ZKMRNPreferences.nib"
+r0
+
+CStripNIB "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../Zirkonium/English.lproj/ZKMRNStudioSetupDocument.nib"
+r0
+
+CTouch "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumMuseum/ZirkoniumMuseum/../../build/Release/ZirkoniumMuseum.app"
+r0
+

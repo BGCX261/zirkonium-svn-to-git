@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>InputSetup 2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>InputSetup</key>
+		<dict>
+			<key>AbstractInOutPatch</key>
+			<data>
+			kXduvzH95H1RB8Y7q/cJ7ZZOIg7YzkxL2Si/Jy3zx9I=
+			</data>
+			<key>AbstractInOutPatchChannel</key>
+			<data>
+			b4KJEcEIBNKjhGWT0FGnbNs2y2f7VHKxlgrt1caLQZc=
+			</data>
+			<key>DirectOutPatch</key>
+			<data>
+			irod07lxEE93/IUngUOxJMMO7qos75qCJyQTv800T1o=
+			</data>
+			<key>DirectOutPatchChannel</key>
+			<data>
+			PaHI3sE4rBNGsp8BWB1IzKV4GmndEfNjMyalEAjDzJU=
+			</data>
+			<key>InputPatch</key>
+			<data>
+			CG3oh9eFBNf+fZZzcLcHn17lv+txphJGxWqHqZMtdBA=
+			</data>
+			<key>InputPatchChannel</key>
+			<data>
+			+m7WzCHx1yy9zpbdnKFsN7uw9ifSJNQxk8fjxJIgAtk=
+			</data>
+			<key>OutputPatch</key>
+			<data>
+			1fhysEKc7/JA3kRsAgXuJ54IRvB6aLHdk5Jt/p0L+J8=
+			</data>
+			<key>OutputPatchChannel</key>
+			<data>
+			7MKY6GlE1TjRs3+ZUh9NKolOirrFd4gK3bg6i/z6+40=
+			</data>
+		</dict>
+		<key>InputSetup 2</key>
+		<dict>
+			<key>AbstractInOutPatch</key>
+			<data>
+			kXduvzH95H1RB8Y7q/cJ7ZZOIg7YzkxL2Si/Jy3zx9I=
+			</data>
+			<key>AbstractInOutPatchChannel</key>
+			<data>
+			b4KJEcEIBNKjhGWT0FGnbNs2y2f7VHKxlgrt1caLQZc=
+			</data>
+			<key>DirectOutPatch</key>
+			<data>
+			irod07lxEE93/IUngUOxJMMO7qos75qCJyQTv800T1o=
+			</data>
+			<key>DirectOutPatchChannel</key>
+			<data>
+			PaHI3sE4rBNGsp8BWB1IzKV4GmndEfNjMyalEAjDzJU=
+			</data>
+			<key>InputPatch</key>
+			<data>
+			CG3oh9eFBNf+fZZzcLcHn17lv+txphJGxWqHqZMtdBA=
+			</data>
+			<key>InputPatchChannel</key>
+			<data>
+			+m7WzCHx1yy9zpbdnKFsN7uw9ifSJNQxk8fjxJIgAtk=
+			</data>
+			<key>OutputPatch</key>
+			<data>
+			1fhysEKc7/JA3kRsAgXuJ54IRvB6aLHdk5Jt/p0L+J8=
+			</data>
+			<key>OutputPatchChannel</key>
+			<data>
+			7MKY6GlE1TjRs3+ZUh9NKolOirrFd4gK3bg6i/z6+40=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

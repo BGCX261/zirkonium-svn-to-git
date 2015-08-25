@@ -1,0 +1,604 @@
+TSycamoreLog
+v7
+r0
+t333289815.307895
+cCheck dependencies
+cProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-cljcksirgexmevbucquzrczrbzkx/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dimselgderpmilazftkytqcpywaw/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-heylyinmqmhtsbbxakikzfiokqbn/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ekseeudwjnoxtjbvqtzbtwwpxojx/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-euetqhdeekpugqhkwhsgwpzttgqq/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dlawnyovsbjbzyckrzlhznuysbcn/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLoggerCPP.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLogger.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLogPrinter.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm" normal ppc objective-c++ com.apple.compilers.gcc.4_2
+cCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLoggerCPP.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLogger.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLogPrinter.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog" normal ppc
+cLd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog" normal i386
+cCreateUniversalBinary "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLog" normal "ppc i386"
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000486499690000000000000942
+t1214552425
+s2370
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c0000000047BAD4120000000000000400
+t1203426322
+s1024
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/usr/include/libkern/OSAtomic.h
+c0000000047BA993000000000000024B9
+t1203411248
+s9401
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/usr/include/sys/time.h
+c0000000047E883D20000000000001E18
+t1206420434
+s7704
+
+N/Developer-Old/SDKs/MacOSX10.5.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EAF100000000000010DD
+t1242688241
+s4317
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000486499690000000000000942
+t1214552425
+s2370
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c0000000047BAD4120000000000000400
+t1203426322
+s1024
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/libkern/OSAtomic.h
+c0000000047BA993000000000000024B9
+t1203411248
+s9401
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/time.h
+c0000000047E883D20000000000001E18
+t1206420434
+s7704
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EAF100000000000010DD
+t1242688241
+s4317
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../Tiger/PublicUtility/CAAtomicStack.h
+c000000004CAD8A880000000000001139
+t1286441608
+s4409
+i<libkern/OSAtomic.h>
+i<CoreServices/CoreServices.h>
+i<DriverSynchronization.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLog
+c000000004E2D61D7000000000000D5F4
+t1311597015
+s54772
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog
+t1311597015
+s26100
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog.LinkFileList
+c000000004D823EC4000000000000029A
+t1300381380
+s666
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog.o
+t1311597014
+s2896
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLogPrinter.o
+t1311597014
+s4236
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLogger.o
+t1311597014
+s5276
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLoggerCPP.o
+t1311597015
+s9948
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog
+t1311597015
+s24508
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog.LinkFileList
+c000000004D823EC40000000000000296
+t1300381380
+s662
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog.o
+t1311597014
+s3080
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLogPrinter.o
+t1311597014
+s4484
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLogger.o
+t1311597014
+s5796
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLoggerCPP.o
+t1311597015
+s11060
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m
+c000000004CAD8A8700000000000001F6
+t1286441607
+s502
+i<Foundation/Foundation.h>
+i"SycamoreLogPrinter.h"
+i"ZKMORLogger.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.h
+c000000004CAD8A870000000000000126
+t1286441607
+s294
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm
+c000000004CAD8A8700000000000003F9
+t1286441607
+s1017
+i"SycamoreLogPrinter.h"
+i"ZKMORLoggerCPP.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMMPQueue.h
+c000000004CAD8A8700000000000013BF
+t1286441607
+s5055
+i"CAAtomicStack.h"
+i<list>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp
+c000000004CAD8A8700000000000007A9
+t1286441607
+s1961
+i"ZKMORLogger.h"
+i"ZKMORLoggerCPP.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.h
+c000000004CAD8A870000000000000E54
+t1286441607
+s3668
+i<CoreFoundation/CoreFoundation.h>
+i<sys/time.h>
+i<stdarg.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp
+c000000004CAD8A870000000000001D32
+t1286441607
+s7474
+i"ZKMORLoggerCPP.h"
+i"ZKMORLoggerCPP.h"
+i<stdio.h>
+i<CoreFoundation/CoreFoundation.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.h
+c000000004CAD8A8700000000000018DE
+t1286441607
+s6366
+i"ZKMORLogger.h"
+i"ZKMMPQueue.h"
+i<stdlib.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch
+c000000004CAD8A8700000000000000A1
+t1286441607
+s161
+i<Foundation/Foundation.h>
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ajsfhmipewtodobleajycerzvmeg/SycamoreLog_Prefix.pch.gch
+t1304420901
+s2240880
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-cljcksirgexmevbucquzrczrbzkx/SycamoreLog_Prefix.pch.gch
+t1311597013
+s26441488
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dimselgderpmilazftkytqcpywaw/SycamoreLog_Prefix.pch.gch
+t1311597011
+s2244976
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dlawnyovsbjbzyckrzlhznuysbcn/SycamoreLog_Prefix.pch.gch
+t1311597013
+s34486224
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ekseeudwjnoxtjbvqtzbtwwpxojx/SycamoreLog_Prefix.pch.gch
+t1311597012
+s28514256
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-emybjempihkqxzafdjpdggpzrpwu/SycamoreLog_Prefix.pch.gch
+t1304420903
+s28510160
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-euetqhdeekpugqhkwhsgwpzttgqq/SycamoreLog_Prefix.pch.gch
+t1311597010
+s2486640
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-fwwkgrnfpratarbxuksbsazkewvk/SycamoreLog_Prefix.pch.gch
+t1304420905
+s34482128
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-giezbpipodmstigaypdvgpeaabwd/SycamoreLog_Prefix.pch.gch
+t1304420904
+s26445584
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-gucstakatrptgncqltlgexrjnyco/SycamoreLog_Prefix.pch.gch
+t1304420905
+s32352016
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-heylyinmqmhtsbbxakikzfiokqbn/SycamoreLog_Prefix.pch.gch
+t1311597014
+s32360208
+
+N/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-hksanfravftrfbezpwnnzhqzogvg/SycamoreLog_Prefix.pch.gch
+t1304420900
+s2486640
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333289810#333289810#0(0"0(0#1#0"8624843104#0"0#
+
+CCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333289814.282449
+e333289814.531203
+r1
+xCompileC
+x../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog.o
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m333289814#333289814#0(0"0(0#0#90"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m8632356672#1493"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ekseeudwjnoxtjbvqtzbtwwpxojx/SycamoreLog_Prefix.pch -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m" -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog.o"0#
+
+CCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLogPrinter.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s333289814.285074
+e333289814.899734
+r1
+xCompileC
+x../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLogPrinter.o
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm333289814#333289814#0(0"0(0#0#98"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm8631259168#1538"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dlawnyovsbjbzyckrzlhznuysbcn/SycamoreLog_Prefix.pch -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm" -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLogPrinter.o"0#
+
+CCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLogger.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s333289814.284192
+e333289814.975153
+r1
+xCompileC
+x../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLogger.o
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp333289814#333289814#0(0"0(0#0#110"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp8631478816#1533"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-euetqhdeekpugqhkwhsgwpzttgqq/SycamoreLog_Prefix.pch -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp" -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLogger.o"0#
+
+CCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLoggerCPP.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s333289814.283305
+e333289815.032791
+r1
+xCompileC
+x../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLoggerCPP.o
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp333289814#333289815#0(0"0(0#0#113"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp8631860640#1539"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-euetqhdeekpugqhkwhsgwpzttgqq/SycamoreLog_Prefix.pch -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp" -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/ZKMORLoggerCPP.o"0#
+
+CCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s333289814.278782
+e333289814.572509
+r1
+xCompileC
+x../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog.o
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m333289814#333289814#0(0"0(0#0#90"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m8633246752#1500"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-cljcksirgexmevbucquzrczrbzkx/SycamoreLog_Prefix.pch -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog.m" -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog.o"0#
+
+CCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLogPrinter.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm" normal ppc objective-c++ com.apple.compilers.gcc.4_2
+s333289814.281632
+e333289814.869699
+r1
+xCompileC
+x../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLogPrinter.o
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm
+xnormal
+xppc
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm333289814#333289814#0(0"0(0#0#98"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm8632478016#1545"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-heylyinmqmhtsbbxakikzfiokqbn/SycamoreLog_Prefix.pch -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogPrinter.mm" -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLogPrinter.o"0#
+
+CCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLogger.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s333289814.280814
+e333289814.958601
+r1
+xCompileC
+x../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLogger.o
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp333289814#333289814#0(0"0(0#0#110"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp8632571296#1540"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dimselgderpmilazftkytqcpywaw/SycamoreLog_Prefix.pch -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.cpp" -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLogger.o"0#
+
+CCompileC ../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLoggerCPP.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s333289814.280047
+e333289815.013769
+r1
+xCompileC
+x../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLoggerCPP.o
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp333289814#333289815#0(0"0(0#0#113"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp8632788352#1546"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -include /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dimselgderpmilazftkytqcpywaw/SycamoreLog_Prefix.pch -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.cpp" -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/ZKMORLoggerCPP.o"0#
+
+CCreateUniversalBinary "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLog" normal "ppc i386"
+s333289815.269619
+e333289815.307865
+r1
+xCreateUniversalBinary
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLog
+xnormal
+xppc i386
+lSLF07#2@68"CreateUniversalBinary ../build/Release/SycamoreLog normal "ppc i386"333289815#333289815#0(0"0(0#0#85"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/ppc i3868632373344#555"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    /usr/bin/lipo -create "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog" -output "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLog"0#
+
+CLd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog" normal i386
+s333289815.032856
+e333289815.218141
+r1
+xLd
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog
+xnormal
+xi386
+lSLF07#2@166"Link /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog333289815#333289815#0(0"0(0#0#0"8631063520#840"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer-Old/usr/bin/g++-4.2 -arch i386 -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk "-L/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" -filelist "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework CoreServices -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/i386/SycamoreLog"0#
+
+CLd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog" normal ppc
+s333289815.013827
+e333289815.269545
+r1
+xLd
+x/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog
+xnormal
+xppc
+lSLF07#2@165"Link /Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog333289815#333289815#0(0"0(0#0#0"8631431392#837"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer-Old/usr/bin/g++-4.2 -arch ppc -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk "-L/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" -filelist "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework CoreServices -o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/Objects-normal/ppc/SycamoreLog"0#
+
+CProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-cljcksirgexmevbucquzrczrbzkx/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s333289810.134076
+e333289813.826571
+r1
+xProcessPCH
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-cljcksirgexmevbucquzrczrbzkx/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch333289810#333289813#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8632109664#1346"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-cljcksirgexmevbucquzrczrbzkx/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ekseeudwjnoxtjbvqtzbtwwpxojx/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333289810.141578
+e333289812.538439
+r1
+xProcessPCH
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ekseeudwjnoxtjbvqtzbtwwpxojx/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch333289810#333289812#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8632527296#1338"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ekseeudwjnoxtjbvqtzbtwwpxojx/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-emybjempihkqxzafdjpdggpzrpwu/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326113700.001999
+e326113703.818098
+r1
+xProcessPCH
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-emybjempihkqxzafdjpdggpzrpwu/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch326113700#326113703#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8611830816#1330"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-emybjempihkqxzafdjpdggpzrpwu/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-giezbpipodmstigaypdvgpeaabwd/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s326113699.996166
+e326113704.320748
+r1
+xProcessPCH
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-giezbpipodmstigaypdvgpeaabwd/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch326113699#326113704#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8019896578610126848#1338"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-giezbpipodmstigaypdvgpeaabwd/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ajsfhmipewtodobleajycerzvmeg/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_2
+s326113700.000389
+e326113701.740230
+r1
+xProcessPCH++
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ajsfhmipewtodobleajycerzvmeg/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch326113700#326113701#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8612244448#1358"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-ajsfhmipewtodobleajycerzvmeg/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dimselgderpmilazftkytqcpywaw/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_2
+s333289810.135069
+e333289811.778930
+r1
+xProcessPCH++
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dimselgderpmilazftkytqcpywaw/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch333289810#333289811#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8632186240#1366"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dimselgderpmilazftkytqcpywaw/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dlawnyovsbjbzyckrzlhznuysbcn/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s333289810.144078
+e333289813.472927
+r1
+xProcessPCH++
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dlawnyovsbjbzyckrzlhznuysbcn/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch333289810#333289813#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8632730624#1368"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-dlawnyovsbjbzyckrzlhznuysbcn/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-euetqhdeekpugqhkwhsgwpzttgqq/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s333289810.142442
+e333289811.714542
+r1
+xProcessPCH++
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-euetqhdeekpugqhkwhsgwpzttgqq/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch333289810#333289811#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8624645760#1358"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-euetqhdeekpugqhkwhsgwpzttgqq/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-fwwkgrnfpratarbxuksbsazkewvk/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s326113700.003656
+e326113705.339219
+r1
+xProcessPCH++
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-fwwkgrnfpratarbxuksbsazkewvk/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch326113700#326113705#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8611369664#1360"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-fwwkgrnfpratarbxuksbsazkewvk/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-gucstakatrptgncqltlgexrjnyco/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc objective-c++ com.apple.compilers.gcc.4_2
+s326113700.001127
+e326113705.436274
+r1
+xProcessPCH++
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-gucstakatrptgncqltlgexrjnyco/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xppc
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch326113700#326113705#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8612153760#1368"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-gucstakatrptgncqltlgexrjnyco/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-heylyinmqmhtsbbxakikzfiokqbn/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal ppc objective-c++ com.apple.compilers.gcc.4_2
+s333289810.135860
+e333289814.278697
+r1
+xProcessPCH++
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-heylyinmqmhtsbbxakikzfiokqbn/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xppc
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch333289810#333289814#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8630979840#1376"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer-Old/usr/bin/gcc-4.2 -x objective-c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-Old/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/ppc" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-heylyinmqmhtsbbxakikzfiokqbn/SycamoreLog_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-hksanfravftrfbezpwnnzhqzogvg/SycamoreLog_Prefix.pch.gch SycamoreLog_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s326113700.002806
+e326113701.656616
+r1
+xProcessPCH++
+x/var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-hksanfravftrfbezpwnnzhqzogvg/SycamoreLog_Prefix.pch.gch
+xSycamoreLog_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SycamoreLog_Prefix.pch326113700#326113701#0(0"0(0#0#99"/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch8611659616#1350"    cd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/SycamoreLog.hmap" "-F/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/include" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources/i386" "-I/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLog.build/DerivedSources" -c "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLog_Prefix.pch" -o /var/folders/JY/JYsnqVBzEYitQKqR0ldEI++++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SycamoreLog_Prefix-hksanfravftrfbezpwnnzhqzogvg/SycamoreLog_Prefix.pch.gch0#
+

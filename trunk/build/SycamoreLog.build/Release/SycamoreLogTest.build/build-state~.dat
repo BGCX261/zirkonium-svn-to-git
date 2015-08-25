@@ -1,0 +1,31 @@
+TSycamoreLogTest
+v7
+r1
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLogTest.octest
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLogTest.octest/Contents/Info.plist
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLogTest.build/Script-36D5F6180A936A6D00C1A73E.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NSycamoreLogTest-Info.plist
+c000000004CAD8A870000000000000278
+t1286441607
+s632
+
+CPhaseScriptExecution "Run Script" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/SycamoreLog.build/Release/SycamoreLogTest.build/Script-36D5F6180A936A6D00C1A73E.sh"
+r0
+
+CProcessInfoPlistFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLogTest.octest/Contents/Info.plist" SycamoreLogTest-Info.plist
+r0
+
+CTouch "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/../build/Release/SycamoreLogTest.octest"
+r0
+

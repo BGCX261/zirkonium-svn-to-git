@@ -1,0 +1,24 @@
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:10:28: error: LightController.h: No such file or directory
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m: In function '-[ZKMRNLightTableView drawRect:]':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:42: error: 'dbLightTableSize' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:42: error: (Each undeclared identifier is reported only once
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:42: error: for each function it appears in.)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:43: warning: no '-dbLightTable' method found
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:43: warning: (Messages without a matching method signature
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:43: warning: will be assumed to return 'id' and accept
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:43: warning: '...' as arguments.)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:43: warning: initialization from incompatible pointer type
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m: In function '-[ZKMRNLightTableView processMouse:]':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:81: error: 'dbLightTableSize' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:82: warning: no '-dbLightTable' method found
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:82: warning: initialization from incompatible pointer type
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/Widgets/ZKMRNLightTableView.m:89: warning: unused variable 'index'
+{standard input}:100:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+{standard input}:100:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:79:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:79:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:75:non-relocatable subtraction expression, "L_OBJC_CLASS_ZKMRNLightTableView" minus "L00000000001$pb"
+{standard input}:75:symbol: "L_OBJC_CLASS_ZKMRNLightTableView" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_ZKMRNLightTableView
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1

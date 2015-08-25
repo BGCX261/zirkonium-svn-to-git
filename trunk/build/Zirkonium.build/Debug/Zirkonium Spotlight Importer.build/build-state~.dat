@@ -1,0 +1,28 @@
+TZirkonium Spotlight Importer
+v7
+r1
+cCheck dependencies
+
+N/Users/dwagner/Dropbox/work/ZKM/Zirkonium_MaxMSP/zirkonium/ZirkoniumOld/../build/Debug/Zirkonium.mdimporter
+t2
+s0
+
+N/Users/dwagner/Dropbox/work/ZKM/Zirkonium_MaxMSP/zirkonium/ZirkoniumOld/../build/Debug/Zirkonium.mdimporter/Contents/Info.plist
+t2
+s0
+
+NImporter/Importer-Info.plist
+c000000004A253867000000000000092A
+t1243953255
+s2346
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies374769373#374769373#0(90"[BEROR]error: There is no SDK with the name or path '/Developer-Old/SDKs/MacOSX10.4u.sdk'1(4@82"error: There is no SDK with the name or path '/Developer-Old/SDKs/MacOSX10.4u.sdk'374769373#18446744073709551615#0#0(1@0"0(0#1#0"8603510816#0"0#
+
+CProcessInfoPlistFile /Users/dwagner/Dropbox/work/ZKM/Zirkonium_MaxMSP/zirkonium/ZirkoniumOld/../build/Debug/Zirkonium.mdimporter/Contents/Info.plist Importer/Importer-Info.plist
+r0
+
+CTouch /Users/dwagner/Dropbox/work/ZKM/Zirkonium_MaxMSP/zirkonium/ZirkoniumOld/../build/Debug/Zirkonium.mdimporter
+r0
+

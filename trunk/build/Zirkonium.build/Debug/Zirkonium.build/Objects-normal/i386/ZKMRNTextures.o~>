@@ -1,0 +1,54 @@
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: In function 'InterpolateHighlight':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:13: error: 'ZKMRNSpeakerTexture' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:13: error: (Each undeclared identifier is reported only once
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:13: error: for each function it appears in.)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:13: error: 'texture' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:13: error: expected expression before ')' token
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: At top level:
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:81: warning: cannot find interface declaration for 'ZKMRNSpeakerTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: In function '-[ZKMRNSpeakerTexture init]':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:83: error: no super class declared in @interface for 'ZKMRNSpeakerTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:85: error: '_colorSpace' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:87: error: '_gradientFunction' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:89: error: 'startColor' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:90: error: 'endColor' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:92: warning: 'ZKMRNSpeakerTexture' may not respond to '-generateTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:92: warning: (Messages without a matching method signature
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:92: warning: will be assumed to return 'id' and accept
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:92: warning: '...' as arguments.)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: In function '-[ZKMRNSpeakerTexture dealloc]':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:100: error: '_colorSpace' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:101: error: '_gradientFunction' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:102: error: no super class declared in @interface for 'ZKMRNSpeakerTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: At top level:
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:114: warning: cannot find interface declaration for 'ZKMRNSpeakerCubeTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: In function '-[ZKMRNSpeakerCubeTexture generateTexture]':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:117: error: '_frame' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:136: error: '_colorSpace' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:141: error: '_gradientFunction' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:144: error: '_textureBitmap' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:149: warning: 'ZKMRNSpeakerCubeTexture' may not respond to '-bindTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: At top level:
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:163: warning: cannot find interface declaration for 'ZKMRNSpeakerRectangleTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: In function '-[ZKMRNSpeakerRectangleTexture generateTextureBumpy]':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:166: error: '_frame' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:179: error: '_colorSpace' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:182: error: '_gradientFunction' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:190: error: 'startColor' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:191: error: 'endColor' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:218: error: '_textureBitmap' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:223: warning: 'ZKMRNSpeakerRectangleTexture' may not respond to '-bindTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: In function '-[ZKMRNSpeakerRectangleTexture generateTextureAura]':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:231: error: '_frame' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:250: error: '_colorSpace' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:255: error: '_gradientFunction' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:258: error: '_textureBitmap' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:263: warning: 'ZKMRNSpeakerRectangleTexture' may not respond to '-bindTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: At top level:
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:279: warning: cannot find interface declaration for 'ZKMRNVirtualSourceTexture'
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m: In function '-[ZKMRNVirtualSourceTexture generateTexture]':
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:282: error: '_frame' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:299: error: '_colorSpace' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:304: error: '_gradientFunction' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:307: error: '_textureBitmap' undeclared (first use in this function)
+/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Zirkonium/ZKMRNTextures.m:312: warning: 'ZKMRNVirtualSourceTexture' may not respond to '-bindTexture'

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>ZKMMDDocument 2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>ZKMMDDocument</key>
+		<dict>
+			<key>ZKMMDPiece</key>
+			<data>
+			vq7vcj99aV/D/dDUwol4jyMnl7opKxVp2pJP63WDu5U=
+			</data>
+		</dict>
+		<key>ZKMMDDocument 2</key>
+		<dict>
+			<key>ZKMMDPiece</key>
+			<data>
+			Fq41bg7+R21k75A504tkn7HfK2C7k75LSVdZlg3CDOQ=
+			</data>
+		</dict>
+		<key>ZKMMDDocument1-1</key>
+		<dict>
+			<key>ZKMMDPiece</key>
+			<data>
+			WIgTOEyA8ZQgHj2pi3ubxdouDysunC9QjSem5jqJL9A=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

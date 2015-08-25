@@ -1,0 +1,248 @@
+TZirkoniumLicht
+v7
+r1
+cCheck dependencies
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/ip/IpEndpointName.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/ip/NetworkingUtils.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/ip/PacketListener.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/ip/TimerListener.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/ip/UdpSocket.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/osc/MessageMappingOscPacketListener.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/osc/OscException.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/osc/OscHostEndianness.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/osc/OscOutboundPacketStream.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/osc/OscPacketListener.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/osc/OscPrintReceivedElements.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/osc/OscReceivedElements.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../Zirkonium/oscpack/osc/OscTypes.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/IpEndpointName.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/MessageMappingOscPacketListener.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/NetworkingUtils.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscException.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscHostEndianness.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscOutboundPacketStream.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscPacketListener.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscPrintReceivedElements.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscReceivedElements.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscTypes.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/PacketListener.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/Syncretism.framework
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/TimerListener.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/UdpSocket.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/ZKMRLOSCController.h
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Resources/English.lproj/ZKMRLLightSetupDocument.nib
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/English.lproj/InfoPlist.strings
+c000000004CAD8A8800000000000000CE
+t1286441608
+s206
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/English.lproj/MainMenu.nib
+c000000004CAD8A8800000000000000CC
+t1286441608
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/English.lproj/ZKMRLLightSetupDocument.nib
+c000000004CAD8A8800000000000000CC
+t1286441608
+s204
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/ZKMRLOSCController.h
+c000000004CAD8A8800000000000001F0
+t1286441608
+s496
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Debug/Syncretism.framework
+c000000004DBFD59000000000000000CC
+t1304417680
+s204
+
+NInfo.plist
+c000000004CAD8A8800000000000005AE
+t1286441608
+s1454
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333289581#333289581#0(90"[BEROR]error: There is no SDK with the name or path '/Developer-Old/SDKs/MacOSX10.4u.sdk'1(4@82"error: There is no SDK with the name or path '/Developer-Old/SDKs/MacOSX10.4u.sdk'333289581#18446744073709551615#0#0(1@0"0(0#1#0"29836824280170608#0"0#
+
+CCopyStringsFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/IpEndpointName.h ../Zirkonium/oscpack/ip/IpEndpointName.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/MessageMappingOscPacketListener.h ../Zirkonium/oscpack/osc/MessageMappingOscPacketListener.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/NetworkingUtils.h ../Zirkonium/oscpack/ip/NetworkingUtils.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscException.h ../Zirkonium/oscpack/osc/OscException.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscHostEndianness.h ../Zirkonium/oscpack/osc/OscHostEndianness.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscOutboundPacketStream.h ../Zirkonium/oscpack/osc/OscOutboundPacketStream.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscPacketListener.h ../Zirkonium/oscpack/osc/OscPacketListener.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscPrintReceivedElements.h ../Zirkonium/oscpack/osc/OscPrintReceivedElements.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscReceivedElements.h ../Zirkonium/oscpack/osc/OscReceivedElements.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/OscTypes.h ../Zirkonium/oscpack/osc/OscTypes.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/PacketListener.h ../Zirkonium/oscpack/ip/PacketListener.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/Syncretism.framework "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/build/Debug/Syncretism.framework"
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/TimerListener.h ../Zirkonium/oscpack/ip/TimerListener.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/UdpSocket.h ../Zirkonium/oscpack/ip/UdpSocket.h
+r0
+
+CPBXCp ../build/Debug/ZirkoniumLicht.app/Contents/Frameworks/ZKMRLOSCController.h ZKMRLOSCController.h
+r0
+
+CProcessInfoPlistFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app/Contents/Info.plist" Info.plist
+r0
+
+CStripNIB "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/English.lproj/MainMenu.nib"
+r0
+
+CStripNIB "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/English.lproj/ZKMRLLightSetupDocument.nib"
+r0
+
+CTouch "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/ZirkoniumLicht/../build/Debug/ZirkoniumLicht.app"
+r0
+

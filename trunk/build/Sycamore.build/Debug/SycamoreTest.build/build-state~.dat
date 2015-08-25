@@ -1,0 +1,1098 @@
+TSycamoreTest
+v7
+r1
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c000000004C885CA00000000000000E25
+t1284005024
+s3621
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c000000004C885CA00000000000000701
+t1284005024
+s1793
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestCase.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c000000004C885CA0000000000000084C
+t1284005024
+s2124
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c000000004C885CA0000000000000167B
+t1284005024
+s5755
+i<Foundation/NSObject.h>
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase_Macros.h>
+i<SenTestingKit/NSException_SenTestFailure.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c000000004C885CA00000000000000860
+t1284005024
+s2144
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c000000004C885CA00000000000007F41
+t1284005024
+s32577
+i<SenTestingKit/SenTestingUtilities.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c000000004C885CA00000000000000947
+t1284005024
+s2375
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c000000004C885CA000000000000006F0
+t1284005024
+s1776
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestObserver.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c000000004C885CA000000000000006D0
+t1284005024
+s1744
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestObserver.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c000000004C885CA000000000000009CF
+t1284005024
+s2511
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c000000004C885CA00000000000000958
+t1284005024
+s2392
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c000000004C885CA00000000000000A79
+t1284005024
+s2681
+i<Foundation/NSObject.h>
+i<SenTestingKit/SenTest.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c000000004C885CA00000000000000CCF
+t1284005024
+s3279
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c000000004C885CA000000000000007D3
+t1284005024
+s2003
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004C885CA000000000000008A5
+t1284005024
+s2213
+i<SenTestingKit/SenTestDefines.h>
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase.h>
+i<SenTestingKit/SenTestSuite.h>
+i<SenTestingKit/SenTestObserver.h>
+i<SenTestingKit/NSException_SenTestFailure.h>
+i<SenTestingKit/SenTestLog.h>
+i<SenTestingKit/SenTestDistributedNotifier.h>
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestSuiteRun.h>
+i<SenTestingKit/SenTestCaseRun.h>
+i<SenTestingKit/SenInterfaceTestCase.h>
+i<SenTestingKit/SenTestProbe.h>
+i<SenTestingKit/SenTestingUtilities.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c000000004C885CA00000000000000C37
+t1284005024
+s3127
+i<Foundation/Foundation.h>
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004864A73B000000000000095A
+t1214555963
+s2394
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004864A73B0000000000004B3C
+t1214555963
+s19260
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AudioUnit.framework/Headers/AudioUnit.h
+c000000004864A72E00000000000003CC
+t1214555950
+s972
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudio.h
+c0000000048649BCC00000000000002D4
+t1214553036
+s724
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c0000000048649BCC000000000000E5E6
+t1214553036
+s58854
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000486499690000000000000942
+t1214552425
+s2370
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c0000000047BAD4120000000000000400
+t1203426322
+s1024
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004864A1CB0000000000000CD5
+t1214554571
+s3285
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTKit.h
+c000000004864C3220000000000000418
+t1214563106
+s1048
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/AssertMacros.h
+c000000004817F968000000000000CFAE
+t1209530728
+s53166
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/AvailabilityMacros.h
+c000000004817F968000000000000506E
+t1209530728
+s20590
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/ctype.h
+c0000000047BA99310000000000002C3A
+t1203411249
+s11322
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/libkern/OSAtomic.h
+c0000000047BA993000000000000024B9
+t1203411248
+s9401
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/mach/mach_time.h
+c0000000047E8839E0000000000000746
+t1206420382
+s1862
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/pthread.h
+c0000000047BA9932000000000000380F
+t1203411250
+s14351
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/string.h
+c0000000047BA99320000000000001731
+t1203411250
+s5937
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/syslog.h
+c0000000047E883D100000000000021EC
+t1206420433
+s8684
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/time.h
+c0000000047E883D20000000000001E18
+t1206420434
+s7704
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/unistd.h
+c0000000047BA993200000000000053FF
+t1203411250
+s21503
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EAF100000000000010DD
+t1242688241
+s4317
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A11EAF10000000000003197
+t1242688241
+s12695
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C91794F00000000004D2720
+t1284602191
+s5056288
+
+N/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000004C91781A0000000000012150
+t1284601882
+s74064
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004CD4F57800000000002181A0
+t1289024888
+s2195872
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004CC7B01A00000000006705E0
+t1288155162
+s6751712
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CBF770C0000000000D00CA0
+t1287616268
+s13634720
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004CC7AED00000000000783950
+t1288154832
+s7878992
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../SycamoreLog/SycamoreLogSource/ZKMORLogger.h
+c000000004CAD8A870000000000000E54
+t1286441607
+s3668
+i<CoreFoundation/CoreFoundation.h>
+i<sys/time.h>
+i<stdarg.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../SycamoreLog/SycamoreLogSource/ZKMORLoggerCPP.h
+c000000004CAD8A8700000000000018DE
+t1286441607
+s6366
+i"ZKMORLogger.h"
+i"ZKMMPQueue.h"
+i<stdlib.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/AUOutputBL.h
+c000000004CAD8A88000000000000147B
+t1286441608
+s5243
+i"CAStreamBasicDescription.h"
+i<CoreServices/CoreServices.h>
+i<AssertMacros.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/AudioFile-new/CAAudioFile.h
+c000000004CAD8A8800000000000046F6
+t1286441608
+s18166
+i<AvailabilityMacros.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox.h>
+i"CAStreamBasicDescription.h"
+i"CABufferList.h"
+i"CAAudioChannelLayout.h"
+i"CAXException.h"
+i"CAMath.h"
+i<AudioToolbox/ExtendedAudioFile.h>
+i"ExtendedAudioFile.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CAAtomicStack.h
+c000000004CAD8A880000000000001139
+t1286441608
+s4409
+i<libkern/OSAtomic.h>
+i<CoreServices/CoreServices.h>
+i<DriverSynchronization.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CAAudioChannelLayout.h
+c000000004CAD8A880000000000001BE8
+t1286441608
+s7144
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i<CoreAudioTypes.h>
+i<CoreFoundation.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"CAReferenceCounted.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CAAudioTimeStamp.h
+c000000004CAD8A8800000000000012AF
+t1286441608
+s4783
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+i<string.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CABufferList.h
+c000000004CAD8A880000000000002966
+t1286441608
+s10598
+i<stddef.h>
+i"CAStreamBasicDescription.h"
+i<CoreServices/CoreServices.h>
+i<AssertMacros.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CAGuard.h
+c000000004CAD8A88000000000000138D
+t1286441608
+s5005
+i"CAMutex.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CAMath.h
+c000000004CAD8A880000000000000D2D
+t1286441608
+s3373
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CAPThread.h
+c000000004CAD8A8800000000000018C5
+t1286441608
+s6341
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+i<pthread.h>
+i<unistd.h>
+i<windows.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CAStreamBasicDescription.h
+c000000004CAD8A88000000000000243C
+t1286441608
+s9276
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i"CoreAudioTypes.h"
+i"CoreFoundation.h"
+i"CADebugMacros.h"
+i<string.h>
+i<stdio.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../Tiger/PublicUtility/CAXException.h
+c000000004CAD8A880000000000001684
+t1286441608
+s5764
+i<CoreServices/CoreServices.h>
+i<ConditionalMacros.h>
+i<CoreServices.h>
+i"CADebugMacros.h"
+i<ctype.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Debug/Sycamore.framework/Sycamore
+c000000004DBFD58F00000000001C06C0
+t1304417679
+s1836736
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Debug/SycamoreTest.octest
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Debug/SycamoreTest.octest/Contents/Info.plist
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Debug/SycamoreTest.octest/Contents/MacOS/SycamoreTest
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/SycamoreTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAbstractProcessorTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFileOutputTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFilePlayerParallelTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFilePlayerTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFileRecorderTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFileTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioHardwareSystemTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioUnitMirrorTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioUnitParameterSchedulerTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORConduitTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORDeviceOutputTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORFileReaderTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORGraphTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORMixer3DTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORMixerMatrixTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORNoiseTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORQTPlayerTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORUtilitiesTest.o
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Script-36944A4B0A9CBFF100770B32.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/AudioUnit/ZKMORAudioUnit.h
+c000000004CAD8A870000000000000B90
+t1286441607
+s2960
+i"ZKMORConduit.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/AudioUnit/ZKMORAudioUnitMirror.h
+c000000004CAD8A870000000000000AB0
+t1286441607
+s2736
+i"ZKMORCore.h"
+i<AudioUnit/AudioUnit.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/AudioUnit/ZKMORAudioUnitParameterScheduler.h
+c000000004CAD8A87000000000000053A
+t1286441607
+s1338
+i<Cocoa/Cocoa.h>
+i"ZKMORCore.h"
+i<AudioUnit/AudioUnit.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/AudioUnit/ZKMORAudioUnitSystem.h
+c000000004CAD8A87000000000000066C
+t1286441607
+s1644
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/AudioUnit/ZKMORDeviceOutput.h
+c000000004CAD8A870000000000001319
+t1286441607
+s4889
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/AudioUnit/ZKMORMixer3D.h
+c000000004CAD8A8700000000000008A5
+t1286441607
+s2213
+i"ZKMORAudioUnit.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/AudioUnit/ZKMORMixerMatrix.h
+c000000004CAD8A870000000000001545
+t1286441607
+s5445
+i"ZKMORAudioUnit.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Core/ZKMORClock.h
+c000000004D82366D0000000000000464
+t1300379245
+s1124
+i"ZKMORCore.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Core/ZKMORConduit.h
+c000000004CAD8A870000000000002D0C
+t1286441607
+s11532
+i<AudioUnit/AudioUnit.h>
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Core/ZKMORCore.h
+c000000004CAD8A87000000000000039E
+t1286441607
+s926
+i<Cocoa/Cocoa.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Core/ZKMORException.h
+c000000004CAD8A8700000000000003EF
+t1286441607
+s1007
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Core/ZKMORGraph.h
+c000000004CAD8A870000000000001C0C
+t1286441607
+s7180
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Core/ZKMOROutput.h
+c000000004CAD8A870000000000000557
+t1286441607
+s1367
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Core/ZKMORUtilities.h
+c000000004CAD8A87000000000000069B
+t1286441607
+s1691
+i<AudioUnit/AudioUnit.h>
+i"ZKMORCore.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Debugging/ZKMORRenderSimulator.h
+c000000004CAD8A87000000000000042D
+t1286441607
+s1069
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/FileIO/ZKMORAudioFile.h
+c000000004CAD8A8700000000000017BC
+t1286441607
+s6076
+i"ZKMORConduit.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/FileIO/ZKMORAudioFileOutput.h
+c000000004CAD8A870000000000000869
+t1286441607
+s2153
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/FileIO/ZKMORQuickTime.h
+c000000004CAD8A870000000000000936
+t1286441607
+s2358
+i"ZKMORConduit.h"
+i"ZKMOROutput.h"
+i<QTKit/QTKit.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Generators/ZKMORNoise.h
+c000000004CAD8A870000000000000446
+t1286441607
+s1094
+i"ZKMORConduit.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/HAL/ZKMORAudioHardwareSystem.h
+c000000004CAD8A870000000000000CB4
+t1286441607
+s3252
+i"ZKMORCore.h"
+i<CoreAudio/CoreAudio.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Sycamore.h
+c000000004D59240900000000000004A7
+t1297687561
+s1191
+i<Sycamore/ZKMORAudioFile.h>
+i<Sycamore/ZKMORAudioFileOutput.h>
+i<Sycamore/ZKMORAudioHardwareSystem.h>
+i<Sycamore/ZKMORAudioUnit.h>
+i<Sycamore/ZKMORAudioUnitMirror.h>
+i<Sycamore/ZKMORAudioUnitParameterScheduler.h>
+i<Sycamore/ZKMORAudioUnitSystem.h>
+i<Sycamore/ZKMORClock.h>
+i<Sycamore/ZKMORConduit.h>
+i<Sycamore/ZKMORCore.h>
+i<Sycamore/ZKMORDeviceOutput.h>
+i<Sycamore/ZKMORException.h>
+i<Sycamore/ZKMORGraph.h>
+i<Sycamore/ZKMORLogger.h>
+i<Sycamore/ZKMORLogPrinter.h>
+i<Sycamore/ZKMORMixer3D.h>
+i<Sycamore/ZKMORMixerMatrix.h>
+i<Sycamore/ZKMORNoise.h>
+i<Sycamore/ZKMOROutput.h>
+i<Sycamore/ZKMORQuickTime.h>
+i<Sycamore/ZKMORRenderSimulator.h>
+i<Sycamore/ZKMORUtilities.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Zone/ZKMMPRingBuffer.h
+c000000004CAD8A870000000000000B68
+t1286441607
+s2920
+i<CoreServices/CoreServices.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Zone/ZKMORFileStreamer.h
+c000000004CAD8A87000000000000137B
+t1286441607
+s4987
+i"ZKMORZone.h"
+i"CAAudioFile.h"
+i"ZKMMPQueue.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Zone/ZKMORLogPrinter.h
+c000000004CAD8A87000000000000068C
+t1286441607
+s1676
+i"ZKMORLogger.h"
+i"ZKMORZone.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreSource/Zone/ZKMORZone.h
+c000000004CAD8A870000000000001ACC
+t1286441607
+s6860
+i"CAPThread.h"
+i"CAGuard.h"
+i"CAStreamBasicDescription.h"
+i"CABufferList.h"
+i<algorithm>
+i"ZKMMPRingBuffer.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAbstractProcessorTest.h
+c000000004CAD8A8700000000000002B4
+t1286441607
+s692
+i<SenTestingKit/SenTestingKit.h>
+i<Sycamore/Sycamore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAbstractProcessorTest.m
+c000000004CAD8A870000000000000E72
+t1286441607
+s3698
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileOutputTest.h
+c000000004CAD8A870000000000000142
+t1286441607
+s322
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileOutputTest.m
+c000000004CAD8A87000000000000067E
+t1286441607
+s1662
+i"ZKMORAudioFileOutputTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFilePlayerParallelTest.h
+c000000004CAD8A870000000000000160
+t1286441607
+s352
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFilePlayerParallelTest.mm
+c000000004CAD8A870000000000000967
+t1286441607
+s2407
+i"ZKMORAudioFilePlayerParallelTest.h"
+i"AUOutputBL.h"
+i"CAAudioTimeStamp.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFilePlayerTest.h
+c000000004CAD8A870000000000000141
+t1286441607
+s321
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFilePlayerTest.m
+c000000004CAD8A870000000000000E3C
+t1286441607
+s3644
+i"ZKMORAudioFilePlayerTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileRecorderTest.h
+c000000004CAD8A87000000000000014A
+t1286441607
+s330
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileRecorderTest.m
+c000000004CAD8A870000000000001AAF
+t1286441607
+s6831
+i"ZKMORAudioFileRecorderTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileTest.h
+c000000004CAD8A87000000000000012A
+t1286441607
+s298
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileTest.m
+c000000004CAD8A870000000000000D18
+t1286441607
+s3352
+i"ZKMORAudioFileTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioHardwareSystemTest.h
+c000000004CAD8A870000000000000119
+t1286441607
+s281
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioHardwareSystemTest.m
+c000000004CAD8A87000000000000063E
+t1286441607
+s1598
+i"ZKMORAudioHardwareSystemTest.h"
+i<Sycamore/Sycamore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioUnitMirrorTest.h
+c000000004CAD8A870000000000000111
+t1286441607
+s273
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioUnitMirrorTest.m
+c000000004CAD8A8700000000000002BB
+t1286441607
+s699
+i"ZKMORAudioUnitMirrorTest.h"
+i<Sycamore/Sycamore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioUnitParameterSchedulerTest.h
+c000000004CAD8A870000000000000158
+t1286441607
+s344
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioUnitParameterSchedulerTest.m
+c000000004CAD8A870000000000000C1D
+t1286441607
+s3101
+i"ZKMORAudioUnitParameterSchedulerTest.h"
+i"ZKMORAudioUnitParameterScheduler.h"
+i<unistd.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORConduitTest.h
+c000000004CAD8A870000000000000101
+t1286441607
+s257
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORConduitTest.m
+c000000004CAD8A870000000000000253
+t1286441607
+s595
+i"ZKMORConduitTest.h"
+i<Sycamore/Sycamore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORDeviceOutputTest.h
+c000000004CAD8A87000000000000013A
+t1286441607
+s314
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORDeviceOutputTest.m
+c000000004CAD8A87000000000000296D
+t1286441607
+s10605
+i"ZKMORDeviceOutputTest.h"
+i<unistd.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORFileReaderTest.h
+c000000004CAD8A870000000000000115
+t1286441607
+s277
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORFileReaderTest.mm
+c000000004CAD8A870000000000000417
+t1286441607
+s1047
+i"ZKMORFileReaderTest.h"
+i<Sycamore/ZKMORFileStreamer.h>
+i<Sycamore/ZKMORLogPrinter.h>
+i"AUOutputBL.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORGraphTest.h
+c000000004CAD8A87000000000000024A
+t1286441607
+s586
+i<SenTestingKit/SenTestingKit.h>
+i<Sycamore/Sycamore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORGraphTest.m
+c000000004CAD8A8700000000000037C5
+t1286441607
+s14277
+i"ZKMORGraphTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORMixer3DTest.h
+c000000004CAD8A870000000000000136
+t1286441607
+s310
+i<SenTestingKit/SenTestingKit.h>
+i<Sycamore/Sycamore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORMixer3DTest.m
+c000000004CAD8A87000000000000056B
+t1286441607
+s1387
+i"ZKMORMixer3DTest.h"
+i"ZKMORLogger.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORMixerMatrixTest.h
+c000000004CAD8A870000000000000140
+t1286441607
+s320
+i<SenTestingKit/SenTestingKit.h>
+i<Sycamore/Sycamore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORMixerMatrixTest.m
+c000000004CAD8A870000000000000575
+t1286441607
+s1397
+i"ZKMORMixerMatrixTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORNoiseTest.h
+c000000004CAD8A8700000000000001AD
+t1286441607
+s429
+i<SenTestingKit/SenTestingKit.h>
+i<Sycamore/Sycamore.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORNoiseTest.m
+c000000004CAD8A870000000000000E1E
+t1286441607
+s3614
+i"ZKMORNoiseTest.h"
+i"ZKMORLogger.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORQTPlayerTest.h
+c000000004CAD8A87000000000000012A
+t1286441607
+s298
+i"ZKMORAbstractProcessorTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORQTPlayerTest.m
+c000000004CAD8A870000000000000B50
+t1286441607
+s2896
+i"ZKMORQTPlayerTest.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORUtilitiesTest.h
+c000000004CAD8A870000000000000117
+t1286441607
+s279
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORUtilitiesTest.mm
+c000000004CAD8A870000000000000F47
+t1286441607
+s3911
+i"ZKMORUtilitiesTest.h"
+i<Sycamore/Sycamore.h>
+i<Sycamore/ZKMORLoggerCPP.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMMPQueue.h
+c000000004CAD8A8700000000000013BF
+t1286441607
+s5055
+i"CAAtomicStack.h"
+i<list>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/SycamoreLog/SycamoreLogSource/ZKMORLogger.h
+c000000004CAD8A870000000000000E54
+t1286441607
+s3668
+i<CoreFoundation/CoreFoundation.h>
+i<sys/time.h>
+i<stdarg.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Tiger/PublicUtility/CADebugMacros.h
+c000000004CAD8A880000000000004896
+t1286441608
+s18582
+i"CADebugPrintf.h"
+i<pthread.h>
+i"CAHostTimeBase.h"
+i"CAHostTimeBase.h"
+i"CADebugger.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Tiger/PublicUtility/CADebugPrintf.h
+c000000004CAD8A880000000000000ED1
+t1286441608
+s3793
+i<sys/syslog.h>
+i<stdio.h>
+i<stdio.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Tiger/PublicUtility/CADebugger.h
+c000000004CAD8A880000000000000B60
+t1286441608
+s2912
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Tiger/PublicUtility/CAHostTimeBase.h
+c000000004CAD8A880000000000001CAC
+t1286441608
+s7340
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+i<mach/mach_time.h>
+i<windows.h>
+i"CADebugMacros.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Tiger/PublicUtility/CAMutex.h
+c000000004CAD8A880000000000001341
+t1286441608
+s4929
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+i<pthread.h>
+i<windows.h>
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Tiger/PublicUtility/CAReferenceCounted.h
+c000000004CAD8A880000000000000DB6
+t1286441608
+s3510
+i<CoreServices/CoreServices.h>
+i<CoreServices.h>
+i"CAWindows.h"
+
+N/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Tiger/PublicUtility/CAStreamBasicDescription.h
+c000000004CAD8A88000000000000243C
+t1286441608
+s9276
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i"CoreAudioTypes.h"
+i"CoreFoundation.h"
+i"CADebugMacros.h"
+i<string.h>
+i<stdio.h>
+
+NSycamoreTest-Info.plist
+c000000004CAD8A870000000000000275
+t1286441607
+s629
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAbstractProcessorTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAbstractProcessorTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFileOutputTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileOutputTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFilePlayerParallelTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFilePlayerParallelTest.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFilePlayerTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFilePlayerTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFileRecorderTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileRecorderTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioFileTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioFileTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioHardwareSystemTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioHardwareSystemTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioUnitMirrorTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioUnitMirrorTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORAudioUnitParameterSchedulerTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORAudioUnitParameterSchedulerTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORConduitTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORConduitTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORDeviceOutputTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORDeviceOutputTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORFileReaderTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORFileReaderTest.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORGraphTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORGraphTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORMixer3DTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORMixer3DTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORMixerMatrixTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORMixerMatrixTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORNoiseTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORNoiseTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORQTPlayerTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORQTPlayerTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../build/Sycamore.build/Debug/SycamoreTest.build/Objects-normal/i386/ZKMORUtilitiesTest.o "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/SycamoreTestSource/ZKMORUtilitiesTest.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Debug/SycamoreTest.octest/Contents/MacOS/SycamoreTest" normal i386
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Sycamore.build/Debug/SycamoreTest.build/Script-36944A4B0A9CBFF100770B32.sh"
+r0
+
+CProcessInfoPlistFile "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Debug/SycamoreTest.octest/Contents/Info.plist" SycamoreTest-Info.plist
+r0
+
+CTouch "/Users/jens/zirkoniumcode/Zirkonium Branch/git/working/zirkonium/Sycamore/../build/Debug/SycamoreTest.octest"
+r0
+
